@@ -1,0 +1,501 @@
+Track_id,Track_Name,User_Name,Email,User_Age,State,Subscription_Type,Device,Platform,User_Rating,Liked,Language,Artist,Genre,Release_Date,Playlist_Name,Play_Duration_Seconds,Audio_Quality,Repeat_Count,Track_Skip_Count,Offline_Plays_Count
+1,pehla tu duja tu,Arjun,arjun15@outlook.com,22,Tamilnadu,Premium,Laptop,Android,1.9,No,Hindi,Jaani,Bollywood Film Soundtrack,2024-03-02,Pehla Tu Duja Tu Soundtrack,364,High,10,3,4
+2,don't worry baby chinnamma,Aditya,aditya63@hotmail.com,68,Andhra Pradesh,Free,Mobile,iOS,3.6,Yes,Kannada,Arjun Janya,Kannada Film Soundtrack,2024-06-02,Don't Worry Baby Chinnamma Soundtrack,397,Low,20,0,13
+3,bad dreams,Arjun,arjun72@yahoo.com,76,Delhi,Free,Mobile,Mac,1.2,No,English,Halsey,Alternative Pop,2024-07-29,Solo Track 17,314,Low,5,3,15
+4,tu juliet jatt di,Noah,noah42@email.com,40,Punjab,Free,Laptop,Web,3.7,Yes,Punjabi,Ammy Virk,Punjabi Pop,2024-08-21,Solo Track 43,293,High,20,1,10
+5,young g.o.a.t,Kavya,kavya40@protonmail.com,37,Karnataka,Free,iPad,Android,1.5,No,Punjabi,Diljit Dosanjh,Punjabi Pop,2025-03-20,Solo Track 19,209,High,3,4,13
+6,maaya gange,Sophia,sophia35@email.com,72,Punjab,Family,Laptop,Web,1.6,No,Kannada,Armaan Malik,Kannada Film Soundtrack,2025-01-12,Maaya Gange Soundtrack,378,Low,5,3,
+7,og sambavam,Aman,aman45@hotmail.com,50,Tamilnadu,Premium,Laptop,Android,2.6,No,Tamil,Santosh Narayanan,Tamil Film Soundtrack,2024-04-04,OG Sambavam Soundtrack,101,High,20,0,9
+8,priceless,Deepak,deepak44@hotmail.com,12,Karnataka,Free,Mobile,iOS,4.7,Yes,English,Jazzy B,Bhangra Pop,2024-08-10,Solo Track 37,117,Medium,1,4,20
+9,paththavaikkum,Jaspreet,jaspreet63@outlook.com,52,Tamilnadu,Free,Mobile,Android,3.2,Yes,Tamil,Deva,Tamil Film Soundtrack,2025-07-23,Paththavaikkum Soundtrack,232,Very High,20,0,8
+10,aradhya,Pranav,pranav41@yahoo.com,69,Andhra Pradesh,Family,Mobile,iOS,3.7,No,Telugu,G.V. Prakash Kumar,Telugu Film Soundtrack,2024-04-17,Aradhya Soundtrack,290,Low,3,3,18
+11,choli ke peeche,Karthik,karthik48@protonmail.com,45,Tamilnadu,Premium,iPad,Web,4.9,Yes,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2023-09-23,Choli Ke Peeche Soundtrack,235,High,2,3,
+12,bachhalinti kurradini,Jaspreet,jaspreet69@outlook.com,10,Punjab,Premium,Laptop,Mac,3.1,Yes,Telugu,Santhosh Narayanan,Telugu Film Soundtrack,2023-10-17,Bachhalinti Kurradini Soundtrack,269,Medium,10,3,15
+13,the one,Aditya,aditya10@protonmail.com,51,Andhra Pradesh,Family,iPad,Android,3.7,No,Tamil,Harris Jayaraj,Tamil Film Soundtrack,2024-06-19,The One Soundtrack,136,Low,2,2,2
+14,khali quarter,Sukhdev,sukhdev77@yahoo.com,25,Tamilnadu,Family,Mobile,Web,2.4,No,Kannada,Arjun Janya,Kannada Film Soundtrack,2024-10-15,Khali Quarter Soundtrack,206,Low,10,1,16
+15,aadi baa magane bheema,Arjun,arjun53@gmail.com,78,Andhra Pradesh,Free,Laptop,iOS,1.6,No,Kannada,B. Ajaneesh Loknath,Kannada Film Soundtrack,2024-08-23,Aadi Baa Magane Bheema Soundtrack,226,High,0,10,7
+16,sooseki,Shreyas,shreyas50@outlook.com,38,Karnataka,Premium,Laptop,Android,4.5,No,Telugu,Ramajogayya Sastry,Telugu Film Soundtrack,2025-02-27,Sooseki Soundtrack,162,Low,15,0,16
+17,laal pari,Sandhya,sandhya22@protonmail.com,77,Delhi,Premium,Laptop,iOS,4.4,No,Hindi,Yo Yo Honey Singh,Bollywood Film Soundtrack,2024-06-11,Laal Pari Soundtrack,135,High,3,3,8
+18,mera mann,Chaitanya,,22,Tamilnadu,Family,iPad,iOS,2.5,Yes,Punjabi,Garry Sandhu,Punjabi Pop,2024-05-13,Solo Track 23,76,Medium,5,1,7
+19,sohna sohni,Lakshmi,lakshmi27@gmail.com,55,Karnataka,Family,iPad,iOS,3.9,No,Punjabi,Jassie Gill,Punjabi Pop,2025-06-17,Solo Track 23,292,Low,20,0,6
+20,sugar baby,Shreyas,shreyas64@yahoo.com,78,Karnataka,Family,iPad,Android,3.7,No,Tamil,Anirudh Ravichander,Tamil Film Soundtrack,2024-11-07,Thug Life Soundtrack,356,Low,,9,12
+21,zamaana lage,Rohan,rohan47@hotmail.com,16,Delhi,Premium,Laptop,Mac,4.7,No,Hindi,Arijit Singh,Bollywood Film Soundtrack,2024-04-13,Hindi Hits 2025,314,Very High,2,3,1
+22,hridayam lopala,James,james54@yahoo.com,39,Karnataka,Free,Mobile,Mac,4.3,Yes,Telugu,Anirudh Ravichander,Telugu Film Soundtrack,2024-08-06,Telugu Hits 2025,298,Very High,3,5,3
+23,sithira puthiri,Noah,noah47@protonmail.com,21,Punjab,Family,iPad,iOS,2.7,Yes,Tamil,Sai Abhyyankar,Tamil Film Soundtrack,2025-04-15,Tamil Hits 2025,123,Very High,,10,7
+24,aasa kooda,Anjali,anjali87@email.com,24,Tamilnadu,Premium,iPad,Web,4.8,No,Tamil,Sai Abhyyankar,Tamil Film Soundtrack,2023-09-05,Tamil Hits 2025,383,Low,10,1,15
+25,vizhi veekura,Kiran,kiran95@protonmail.com,11,Punjab,Free,iPad,Web,4.2,No,Tamil,Sai Abhyyankar,Tamil Film Soundtrack,2025-07-13,Tamil Hits 2025,120,Low,0,8,1
+26,dheema,Kiran,kiran34@hotmail.com,25,Delhi,Family,iPad,Android,3.5,No,Telugu,Anirudh Ravichander,Telugu Film Soundtrack,2024-08-19,Telugu Hits 2025,224,Medium,2,5,20
+27,kadhal vaanam,Liam,liam55@email.com,48,Punjab,Family,Laptop,iOS,4.7,No,Tamil,A.R. Rahman,Tamil Film Soundtrack,2024-10-13,Tamil Hits 2025,363,Low,20,0,8
+28,dil se dil tak,Shreyas,shreyas84@protonmail.com,54,Delhi,Premium,Mobile,Web,2.3,No,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2025-04-13,Hindi Hits 2025,252,Medium,5,3,14
+29,prema pata,Noah,noah42@hotmail.com,67,Delhi,Family,Laptop,Android,4,Yes,Telugu,G.V. Prakash Kumar,Telugu Film Soundtrack,2023-12-17,Telugu Hits 2025,238,Very High,2,3,14
+30,nanna preethi,Isha,isha73@outlook.com,71,Tamilnadu,Family,iPad,Android,1,Yes,Kannada,V. Harikrishna,Kannada Film Soundtrack,2025-04-21,Kannada Hits 2025,227,Low,10,2,10
+31,jashn vich,Pranav,pranav16@protonmail.com,48,Tamilnadu,Free,iPad,iOS,2.3,Yes,Punjabi,Diljit Dosanjh,Punjabi Pop,2025-06-30,Punjabi Hits 2025,117,High,20,0,8
+32,midnight drive,Navjot,navjot86@outlook.com,29,Tamilnadu,Premium,iPad,Web,4.7,No,English,The Weeknd,Pop,2024-06-01,English Hits 2025,384,High,5,2,3
+33,nila mazhai,Elijah,elijah57@hotmail.com,56,Punjab,Family,iPad,iOS,4.9,No,Tamil,Yuvan Shankar Raja,Tamil Film Soundtrack,2023-12-27,Tamil Hits 2025,90,Very High,10,3,8
+34,rang de zindagi,Vikram,vikram97@gmail.com,50,Delhi,Family,iPad,Android,1.4,Yes,Hindi,Arijit Singh,Bollywood Film Soundtrack,2025-03-24,Hindi Hits 2025,350,Very High,,6,14
+35,andhra jathara,Rohan,rohan86@gmail.com,28,Delhi,Premium,iPad,iOS,1.1,No,Telugu,Devi Sri Prasad,Telugu Film Soundtrack,2023-11-04,Telugu Hits 2025,382,Very High,20,0,17
+36,hrudaya raaga,Lakshmi,lakshmi48@hotmail.com,36,Punjab,Family,Laptop,Mac,1.6,No,Kannada,B. Ajaneesh Loknath,Kannada Film Soundtrack,2024-04-14,Kannada Hits 2025,274,Very High,,9,5
+37,dil nu,Sandhya,sandhya63@protonmail.com,25,Karnataka,Premium,Laptop,iOS,3.2,Yes,Punjabi,AP Dhillon,Punjabi Pop,2024-11-20,Punjabi Hits 2025,233,Very High,3,4,8
+38,starlit sky,Ranjit,ranjit21@outlook.com,72,Karnataka,Free,Laptop,Web,3.1,No,English,Dua Lipa,Pop,2024-06-24,English Hits 2025,165,Very High,3,5,20
+39,nee kannil,Aman,aman40@outlook.com,76,Karnataka,Free,Mobile,iOS,1.8,Yes,Tamil,Anirudh Ravichander,Tamil Film Soundtrack,2023-09-14,Tamil Hits 2025,269,High,5,3,5
+40,ishq di baazi,Asha,asha99@email.com,36,Punjab,Family,iPad,Mac,1.2,No,Punjabi,Jassie Gill,Punjabi Pop,2024-09-17,Punjabi Hits 2025,278,Low,15,0,16
+41,manasilaayo,Deepthi,deepthi68@yahoo.com,46,Andhra Pradesh,Family,Mobile,Android,3.9,Yes,Tamil,A.R. Rahman,Tamil Film Soundtrack,2024-12-17,Tamil Hits 2025,384,Very High,,7,9
+42,zindagi ke rang,Chaitanya,chaitanya17@email.com,35,Andhra Pradesh,Family,Mobile,iOS,1.3,Yes,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2024-02-22,Hindi Hits 2025,326,Very High,3,4,16
+43,telugu thillana,Ramya,ramya14@hotmail.com,50,Andhra Pradesh,Free,Mobile,Android,4.1,No,Telugu,Santhosh Narayanan,Telugu Film Soundtrack,2024-02-22,Telugu Hits 2025,303,High,1,3,11
+44,kanasina kaveri,Kiran,kiran41@yahoo.com,40,Delhi,Free,Laptop,Web,2.7,No,Kannada,Arjun Janya,Kannada Film Soundtrack,2024-10-05,Kannada Hits 2025,341,Very High,10,2,15
+45,pyaar da mela,Anusha,anusha30@yahoo.com,17,Tamilnadu,Family,iPad,Mac,3,No,Punjabi,Garry Sandhu,Punjabi Pop,2024-09-18,Punjabi Hits 2025,163,Medium,5,2,20
+46,broken dreams,Manpreet,manpreet74@gmail.com,45,Tamilnadu,Free,iPad,iOS,1.2,Yes,English,Billie Eilish,Alternative Pop,2024-05-16,English Hits 2025,253,Low,3,2,2
+47,vennila veedu,Anusha,anusha22@email.com,19,Tamilnadu,Premium,Mobile,Web,3.4,Yes,Tamil,Yuvan Shankar Raja,Tamil Film Soundtrack,2024-02-29,Tamil Hits 2025,86,Medium,0,9,13
+48,dhadkan ki baat,Anika,anika83@email.com,66,Punjab,Free,Laptop,Android,4.7,Yes,Hindi,Arijit Singh,Bollywood Film Soundtrack,2024-01-16,Hindi Hits 2025,137,Very High,3,3,9
+49,chirunama,Ranjit,ranjit46@protonmail.com,80,Karnataka,Premium,Mobile,Android,2.6,No,Telugu,Devi Sri Prasad,Telugu Film Soundtrack,2024-12-15,Telugu Hits 2025,383,Medium,2,4,9
+50,nenjina kavita,Aarav,aarav86@yahoo.com,32,Karnataka,Family,iPad,Android,2.4,Yes,Kannada,V. Harikrishna,Kannada Film Soundtrack,2025-06-26,Kannada Hits 2025,254,Medium,0,9,8
+51,anbe aruge,Mani,mani37@protonmail.com,46,Tamilnadu,Free,Mobile,iOS,2.4,Yes,Tamil,Anirudh Ravichander,Tamil Film Soundtrack,2023-11-01,Tamil Hits 2025,161,Very High,,8,20
+52,sapnon ka safar,Harman,harman17@hotmail.com,75,Andhra Pradesh,Premium,iPad,Mac,4.5,Yes,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2025-06-16,Hindi Hits 2025,172,Very High,2,3,11
+53,manohara pata,Deepak,deepak25@protonmail.com,27,Tamilnadu,Free,Mobile,Web,1.8,No,Telugu,G.V. Prakash Kumar,Telugu Film Soundtrack,2025-07-09,Telugu Hits 2025,129,Medium,20,1,9
+54,chandra kala,Dhruv,dhruv20@outlook.com,26,Andhra Pradesh,Family,iPad,Android,2.7,Yes,Kannada,Arjun Janya,Kannada Film Soundtrack,2024-10-12,Kannada Hits 2025,274,High,0,8,17
+55,rabb da ishq,Ishaan,ishaan67@yahoo.com,38,Karnataka,Premium,Mobile,Web,3.3,Yes,Punjabi,Diljit Dosanjh,Punjabi Pop,2025-02-07,Punjabi Hits 2025,305,High,,9,
+56,fade away,Elijah,elijah68@protonmail.com,37,Andhra Pradesh,Premium,iPad,Mac,4.5,No,English,The Weeknd,Pop,2024-01-09,English Hits 2025,183,Very High,1,5,0
+57,thendral vanthu,Rahul,rahul29@email.com,24,Andhra Pradesh,Family,Mobile,Mac,2,Yes,Tamil,A.R. Rahman,Tamil Film Soundtrack,2023-11-03,Tamil Hits 2025,63,Low,3,5,9
+58,dil ka raag,Ishaan,ishaan75@protonmail.com,22,Tamilnadu,Free,iPad,Web,2.2,Yes,Hindi,Arijit Singh,Bollywood Film Soundtrack,2024-07-06,Hindi Hits 2025,142,High,10,2,20
+59,swara jathara,Lakshmi,lakshmi71@gmail.com,39,Delhi,Free,iPad,iOS,4.6,Yes,Telugu,Santhosh Narayanan,Telugu Film Soundtrack,2025-04-11,Telugu Hits 2025,282,Very High,10,3,20
+60,kaviteya kanasu,Sophia,sophia19@outlook.com,41,Tamilnadu,Premium,Mobile,Android,2.7,No,Kannada,B. Ajaneesh Loknath,Kannada Film Soundtrack,2024-08-25,Kannada Hits 2025,172,Low,0,5,12
+61,kaatru veliyil,Rahul,rahul79@outlook.com,25,Karnataka,Family,Mobile,Web,2.1,Yes,Tamil,Yuvan Shankar Raja,Tamil Film Soundtrack,2024-05-11,Tamil Hits 2025,307,High,10,3,0
+62,ishq ki kahani,Priya,priya28@protonmail.com,72,Tamilnadu,Premium,Laptop,Web,4.3,Yes,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2024-03-27,Hindi Hits 2025,359,High,15,1,8
+63,prema swaram,Lakshmi,lakshmi11@hotmail.com,15,Tamilnadu,Free,Laptop,Web,4.6,Yes,Telugu,Devi Sri Prasad,Telugu Film Soundtrack,2023-10-25,Telugu Hits 2025,309,Low,2,2,14
+64,nanna hrudaya,Deepthi,deepthi81@hotmail.com,56,Delhi,Family,Laptop,iOS,1.5,Yes,Kannada,V. Harikrishna,Kannada Film Soundtrack,2023-11-27,Kannada Hits 2025,215,Very High,15,0,8
+65,saath da jashn,Sophia,sophia65@outlook.com,44,Punjab,Family,Laptop,Android,4.1,Yes,Punjabi,AP Dhillon,Punjabi Pop,2023-09-12,Punjabi Hits 2025,386,Very High,10,2,16
+66,neon nights,Emma,emma91@email.com,55,Punjab,Family,Laptop,Mac,1.3,No,English,Dua Lipa,Pop,2024-08-17,English Hits 2025,217,Low,20,0,8
+67,iniyum kaathirunne,Chaitanya,chaitanya35@gmail.com,26,Delhi,Family,Laptop,Mac,1.9,Yes,Tamil,Anirudh Ravichander,Tamil Film Soundtrack,2025-07-28,Tamil Hits 2025,273,Very High,1,5,3
+68,tomake chai bolechhilem,Karthik,karthik30@outlook.com,24,Andhra Pradesh,Premium,Laptop,iOS,3.8,No,Hindi,Arijit Singh,Bollywood Film Soundtrack,2025-04-10,Hindi Hits 2025,128,Low,2,3,12
+69,chitti pata,Navjot,navjot72@outlook.com,55,Andhra Pradesh,Free,Mobile,Android,4.8,No,Telugu,G.V. Prakash Kumar,Telugu Film Soundtrack,2024-07-16,Telugu Hits 2025,157,Medium,5,1,19
+70,preethiya paata,Sneha,sneha52@gmail.com,16,Delhi,Family,Mobile,Android,1.3,No,Kannada,Arjun Janya,Kannada Film Soundtrack,2024-12-22,Kannada Hits 2025,116,Low,10,1,2
+71,nenji kizhinje,Asha,asha78@gmail.com,11,Andhra Pradesh,Premium,Laptop,Web,1.9,No,Tamil,A.R. Rahman,Tamil Film Soundtrack,2024-01-18,Tamil Hits 2025,79,Medium,10,1,19
+72,jaan le gayi,Oliver,oliver96@gmail.com,45,Punjab,Premium,iPad,iOS,2.7,No,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2025-05-26,Hindi Hits 2025,303,Very High,15,1,19
+73,telugu tarana,Asha,asha35@gmail.com,23,Delhi,Family,Mobile,Mac,1.4,Yes,Telugu,Santhosh Narayanan,Telugu Film Soundtrack,2024-01-22,Telugu Hits 2025,144,High,0,,12
+74,kanasu kanda,Arjun,arjun83@protonmail.com,62,Karnataka,Family,Mobile,iOS,2.9,Yes,Kannada,B. Ajaneesh Loknath,Kannada Film Soundtrack,2024-08-18,Kannada Hits 2025,232,Very High,15,1,7
+75,dil di dhadkan,Srinivas,srinivas20@hotmail.com,63,Karnataka,Premium,Mobile,iOS,3.7,No,Punjabi,Diljit Dosanjh,Punjabi Pop,2023-10-27,Punjabi Hits 2025,391,Low,10,3,0
+76,chasing stars,Oliver,oliver87@outlook.com,75,Delhi,Premium,Mobile,Android,3.2,Yes,English,Billie Eilish,Alternative Pop,2023-08-23,English Hits 2025,253,Medium,2,4,2
+77,azhagaai irunthai,Sai,sai17@yahoo.com,22,Tamilnadu,Family,iPad,Mac,1.8,Yes,Tamil,Yuvan Shankar Raja,Tamil Film Soundtrack,2024-08-21,Tamil Hits 2025,304,Low,0,5,
+78,khushi ke pal,Chaitanya,chaitanya23@yahoo.com,57,Tamilnadu,Free,Mobile,Android,2.2,No,Hindi,Arijit Singh,Bollywood Film Soundtrack,2024-12-24,Hindi Hits 2025,178,Medium,,7,12
+79,manasuku pata,Arjun,arjun77@gmail.com,71,Tamilnadu,Free,Mobile,Android,3.4,Yes,Telugu,Devi Sri Prasad,Telugu Film Soundtrack,2025-01-17,Telugu Hits 2025,283,High,1,2,6
+80,hridaya geethe,Mani,mani43@email.com,19,Andhra Pradesh,Free,iPad,iOS,1.8,Yes,Kannada,V. Harikrishna,Kannada Film Soundtrack,2024-08-28,Kannada Hits 2025,363,High,0,8,18
+81,vennila thendral,Sophia,sophia16@email.com,21,Andhra Pradesh,Free,Mobile,Mac,2,Yes,Tamil,Anirudh Ravichander,Tamil Film Soundtrack,2024-03-01,Tamil Hits 2025,169,High,10,1,13
+82,dil ke armaan,Emma,emma97@yahoo.com,41,Tamilnadu,Family,iPad,Web,2.9,Yes,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2025-01-09,Hindi Hits 2025,399,High,2,2,3
+83,prema geetham,Jaya,jaya11@protonmail.com,65,Punjab,Free,Laptop,Mac,3,No,Telugu,G.V. Prakash Kumar,Telugu Film Soundtrack,2024-10-29,Telugu Hits 2025,225,Medium,20,1,
+84,kaveri kirana,Gauri,gauri97@email.com,65,Punjab,Family,Mobile,Android,3.1,No,Kannada,Arjun Janya,Kannada Film Soundtrack,2024-09-12,Kannada Hits 2025,215,Low,5,3,
+85,jashn di raat,Olivia,olivia75@gmail.com,31,Karnataka,Family,iPad,Mac,3.5,Yes,Punjabi,AP Dhillon,Punjabi Pop,2024-10-10,Punjabi Hits 2025,364,Very High,2,4,1
+86,urban pulse,James,james45@gmail.com,74,Tamilnadu,Family,Laptop,Android,2.5,Yes,English,Dua Lipa,Pop,2024-11-24,English Hits 2025,360,Medium,3,4,11
+87,kadhal thendral,Noah,noah42@yahoo.com,33,Delhi,Free,Mobile,iOS,3.7,Yes,Tamil,A.R. Rahman,Tamil Film Soundtrack,2023-11-10,Tamil Hits 2025,251,Low,0,10,8
+88,zindagi di dhoop,Kiran,kiran91@outlook.com,72,Karnataka,Free,iPad,Mac,4.8,No,Hindi,Arijit Singh,Bollywood Film Soundtrack,2025-06-27,Hindi Hits 2025,203,Medium,,10,6
+89,andhra raaga,Asha,asha96@outlook.com,57,Karnataka,Free,iPad,iOS,1.7,No,Telugu,Santhosh Narayanan,Telugu Film Soundtrack,2024-11-16,Telugu Hits 2025,243,Very High,3,3,14
+90,preethi kirana,Dhruv,dhruv62@email.com,15,Karnataka,Premium,Laptop,Mac,4.4,Yes,Kannada,B. Ajaneesh Loknath,Kannada Film Soundtrack,2023-08-21,Kannada Hits 2025,227,Low,15,0,4
+91,nila vaanam,Sophia,sophia12@yahoo.com,39,Karnataka,Free,iPad,Android,3.1,No,Tamil,Yuvan Shankar Raja,Tamil Film Soundtrack,2024-09-25,Tamil Hits 2025,152,Medium,,7,0
+92,dil ki baatein,Jaspreet,jaspreet28@hotmail.com,23,Punjab,Family,iPad,Android,3.6,No,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2024-09-09,Hindi Hits 2025,75,Low,10,2,16
+93,telugu swaram,Charlotte,charlotte10@protonmail.com,11,Karnataka,Premium,iPad,iOS,4.1,Yes,Telugu,Devi Sri Prasad,Telugu Film Soundtrack,2024-10-15,Telugu Hits 2025,93,Low,3,3,14
+94,nanna geethe,Diya,diya75@outlook.com,79,Andhra Pradesh,Family,Mobile,Mac,3.8,No,Kannada,V. Harikrishna,Kannada Film Soundtrack,2025-03-18,Kannada Hits 2025,253,Medium,,6,19
+95,pyaar di baazi,Olivia,olivia85@email.com,23,Karnataka,Family,iPad,Web,3.2,No,Punjabi,Diljit Dosanjh,Punjabi Pop,2024-11-10,Punjabi Hits 2025,276,Low,3,5,
+96,lost in time,Manpreet,manpreet68@protonmail.com,42,Karnataka,Family,Laptop,Android,3.9,No,English,Billie Eilish,Alternative Pop,2025-02-17,English Hits 2025,119,Low,,7,5
+97,anbil avan,Nithya,nithya89@protonmail.com,65,Punjab,Premium,Laptop,iOS,3.1,No,Tamil,Anirudh Ravichander,Tamil Film Soundtrack,2023-12-22,Tamil Hits 2025,379,High,20,0,8
+98,sapnon ki duniya,Elijah,elijah88@yahoo.com,11,Andhra Pradesh,Family,Laptop,Android,3.1,No,Hindi,Arijit Singh,Bollywood Film Soundtrack,2023-09-27,Hindi Hits 2025,129,Very High,,7,4
+99,prema taranga,Deepak,deepak52@gmail.com,75,Punjab,Premium,Laptop,iOS,3.4,Yes,Telugu,G.V. Prakash Kumar,Telugu Film Soundtrack,2024-03-26,Telugu Hits 2025,195,Very High,15,1,9
+100,kanasu raaga,Deepthi,deepthi93@gmail.com,77,Tamilnadu,Family,Mobile,Web,2.7,No,Kannada,Arjun Janya,Kannada Film Soundtrack,2024-08-14,Kannada Hits 2025,369,Very High,5,3,11
+101,kadhal paattu,Navjot,navjot71@gmail.com,31,Andhra Pradesh,Family,iPad,Web,2,No,Tamil,A.R. Rahman,Tamil Film Soundtrack,2025-04-13,Tamil Hits 2025,320,Very High,0,5,18
+102,dil ka safar,Srinivas,srinivas51@outlook.com,80,Delhi,Family,Mobile,Web,3.4,Yes,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2024-10-31,Hindi Hits 2025,253,Very High,3,4,13
+103,telugu kala,Sujatha,sujatha84@protonmail.com,65,Punjab,Free,Mobile,Android,4.3,No,Telugu,Santhosh Narayanan,Telugu Film Soundtrack,2025-01-06,Telugu Hits 2025,178,High,15,1,14
+104,hrudaya kanasu,Isha,isha40@hotmail.com,48,Karnataka,Family,Mobile,Mac,3.8,No,Kannada,B. Ajaneesh Loknath,Kannada Film Soundtrack,2024-12-15,Kannada Hits 2025,333,High,20,1,14
+105,dil da jashn,Emma,emma98@outlook.com,12,Punjab,Free,Mobile,Android,2,No,Punjabi,AP Dhillon,Punjabi Pop,2025-02-02,Punjabi Hits 2025,294,Low,3,2,4
+106,shadow of dreams,Elijah,elijah32@gmail.com,79,Karnataka,Free,iPad,iOS,2.8,Yes,English,Dua Lipa,Pop,2024-07-12,English Hits 2025,85,High,5,1,10
+107,nila thendral,Olivia,olivia63@email.com,63,Delhi,Family,Mobile,Mac,4.6,No,Tamil,Yuvan Shankar Raja,Tamil Film Soundtrack,2023-09-19,Tamil Hits 2025,317,High,,7,18
+108,khushi ka raag,Anika,anika83@gmail.com,29,Delhi,Family,Mobile,Web,1.6,Yes,Hindi,Arijit Singh,Bollywood Film Soundtrack,2024-04-21,Hindi Hits 2025,308,Very High,3,5,15
+109,andhra thillana,Noah,noah47@email.com,77,Karnataka,Premium,Mobile,Web,3,Yes,Telugu,Devi Sri Prasad,Telugu Film Soundtrack,2025-01-05,Telugu Hits 2025,165,High,,5,8
+110,preethi swara,Chaitanya,chaitanya79@email.com,29,Karnataka,Family,iPad,Android,2,Yes,Kannada,V. Harikrishna,Kannada Film Soundtrack,2024-03-15,Kannada Hits 2025,119,Medium,10,1,12
+111,anbe vaanam,Ishaan,ishaan79@hotmail.com,24,Andhra Pradesh,Premium,Mobile,iOS,4.8,No,Tamil,Anirudh Ravichander,Tamil Film Soundtrack,2024-01-29,Tamil Hits 2025,338,Very High,0,6,14
+112,zindagi ka raag,Aditya,aditya65@email.com,57,Delhi,Premium,Laptop,iOS,2.4,Yes,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2025-07-07,Hindi Hits 2025,132,Very High,15,1,17
+113,prema jathara,Charlotte,charlotte43@outlook.com,68,Andhra Pradesh,Family,Mobile,Web,2.3,Yes,Telugu,G.V. Prakash Kumar,Telugu Film Soundtrack,2024-04-10,Telugu Hits 2025,103,Very High,1,4,10
+114,kanasina geethe,Pritam,pritam49@outlook.com,27,Tamilnadu,Premium,iPad,iOS,1.1,Yes,Kannada,Arjun Janya,Kannada Film Soundtrack,2023-09-22,Kannada Hits 2025,241,Medium,15,1,3
+115,saath di raat,Dhruv,dhruv53@yahoo.com,52,Andhra Pradesh,Family,iPad,iOS,3.6,Yes,Punjabi,Diljit Dosanjh,Punjabi Pop,2024-05-19,Punjabi Hits 2025,243,Medium,,8,8
+116,echoes of night,Divya,divya61@yahoo.com,33,Karnataka,Premium,Mobile,Mac,3,Yes,English,Billie Eilish,Alternative Pop,2023-12-22,English Hits 2025,358,High,15,0,8
+117,kadhal kirukkan,Isha,isha36@yahoo.com,46,Karnataka,Premium,iPad,Android,1.2,No,Tamil,A.R. Rahman,Tamil Film Soundtrack,2024-02-27,Tamil Hits 2025,127,High,1,2,10
+118,dil ke geet,Sukhdev,sukhdev85@gmail.com,48,Delhi,Premium,iPad,iOS,1.8,No,Hindi,Arijit Singh,Bollywood Film Soundtrack,2025-06-03,Hindi Hits 2025,200,High,2,3,3
+119,telugu geetham,Jaspreet,,67,Andhra Pradesh,Family,Mobile,iOS,1.4,Yes,Telugu,Santhosh Narayanan,Telugu Film Soundtrack,2024-11-14,Telugu Hits 2025,331,Very High,3,3,
+120,hrudaya swara,Sophia,sophia10@protonmail.com,70,Punjab,Free,iPad,Web,3.8,Yes,Kannada,B. Ajaneesh Loknath,Kannada Film Soundtrack,2024-11-21,Kannada Hits 2025,335,Very High,2,5,3
+121,nila paattu,Ishaan,ishaan39@gmail.com,43,Delhi,Free,iPad,Android,3.4,No,Tamil,Yuvan Shankar Raja,Tamil Film Soundtrack,2024-04-14,Tamil Hits 2025,66,Low,20,1,13
+122,khushi ki dhadkan,Sukhdev,sukhdev23@hotmail.com,32,Punjab,Premium,iPad,Mac,3.6,Yes,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2024-12-07,Hindi Hits 2025,164,Low,5,1,0
+123,andhra pata,Manpreet,manpreet66@outlook.com,22,Andhra Pradesh,Premium,Mobile,iOS,4.2,No,Telugu,Devi Sri Prasad,Telugu Film Soundtrack,2024-01-29,Telugu Hits 2025,152,Very High,1,5,18
+124,nanna kanasu,Rohan,rohan60@email.com,78,Delhi,Family,iPad,iOS,2.9,No,Kannada,V. Harikrishna,Kannada Film Soundtrack,2024-03-29,Kannada Hits 2025,149,High,20,0,11
+125,dil vich pyar,Priya,priya87@email.com,64,Punjab,Premium,Mobile,Android,1.9,Yes,Punjabi,AP Dhillon,Punjabi Pop,2023-10-03,Punjabi Hits 2025,126,High,0,10,16
+126,velvet skies,Priya,priya43@outlook.com,69,Delhi,Free,Laptop,Mac,2.9,Yes,English,Dua Lipa,Pop,2024-06-30,English Hits 2025,81,High,0,9,15
+127,anbe kirukkan,Kavya,kavya51@protonmail.com,56,Delhi,Premium,Mobile,Android,3.4,Yes,Tamil,Anirudh Ravichander,Tamil Film Soundtrack,2024-04-12,Tamil Hits 2025,348,Medium,1,4,2
+128,khushi ka safar,Pranav,pranav98@outlook.com,71,Punjab,Premium,Laptop,Web,2.8,No,Hindi,Arijit Singh,Bollywood Film Soundtrack,2024-06-24,Hindi Hits 2025,163,High,3,3,16
+129,prema kanasu,Noah,noah25@email.com,43,Delhi,Free,Laptop,Web,4.3,Yes,Telugu,G.V. Prakash Kumar,Telugu Film Soundtrack,2024-02-03,Telugu Hits 2025,396,Very High,,8,
+130,kanasu kirana,Isha,isha19@hotmail.com,76,Karnataka,Family,Mobile,iOS,1.5,Yes,Kannada,Arjun Janya,Kannada Film Soundtrack,2024-12-10,Kannada Hits 2025,210,Medium,0,5,20
+131,kadhal swaram,Pritam,pritam60@protonmail.com,80,Karnataka,Family,Laptop,Android,4.6,No,Tamil,A.R. Rahman,Tamil Film Soundtrack,2024-11-24,Tamil Hits 2025,224,High,3,2,6
+132,dil ki kiran,Kavya,kavya70@protonmail.com,42,Delhi,Family,Mobile,Mac,2.8,No,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2024-01-19,Hindi Hits 2025,116,Very High,20,0,14
+133,telugu raaga,Pranav,pranav16@gmail.com,55,Tamilnadu,Family,Laptop,iOS,2.8,No,Telugu,Santhosh Narayanan,Telugu Film Soundtrack,2025-07-18,Telugu Hits 2025,165,Very High,,6,18
+134,hrudaya kaveri,Priya,priya32@outlook.com,67,Karnataka,Family,Laptop,iOS,3.8,Yes,Kannada,B. Ajaneesh Loknath,Kannada Film Soundtrack,2025-05-08,Kannada Hits 2025,74,Medium,1,5,5
+135,pyaar di kiran,James,james46@gmail.com,50,Karnataka,Free,Mobile,Android,2,Yes,Punjabi,Diljit Dosanjh,Punjabi Pop,2025-02-17,Punjabi Hits 2025,89,Medium,3,4,15
+136,nightfall dreams,Diya,diya22@hotmail.com,21,Punjab,Premium,Laptop,Android,2.1,Yes,English,Billie Eilish,Alternative Pop,2024-02-28,English Hits 2025,191,Medium,,7,20
+137,nila swaram,Jaspreet,jaspreet23@gmail.com,12,Punjab,Family,Laptop,Web,2.9,Yes,Tamil,Yuvan Shankar Raja,Tamil Film Soundtrack,2023-12-16,Tamil Hits 2025,309,Medium,1,4,17
+138,zindagi ki baat,Divya,divya91@gmail.com,48,Andhra Pradesh,Free,iPad,Mac,4.9,No,Hindi,Arijit Singh,Bollywood Film Soundtrack,2024-10-15,Hindi Hits 2025,161,Very High,20,1,19
+139,andhra kala,Oliver,oliver58@hotmail.com,24,Delhi,Premium,Mobile,iOS,2.2,Yes,Telugu,Devi Sri Prasad,Telugu Film Soundtrack,2024-10-06,Telugu Hits 2025,194,Low,10,3,11
+140,preethi raaga,Sophia,sophia70@outlook.com,36,Punjab,Premium,Laptop,Mac,1.7,No,Kannada,V. Harikrishna,Kannada Film Soundtrack,2025-06-23,Kannada Hits 2025,343,High,2,4,17
+141,anbe swaram,Pranav,pranav71@protonmail.com,41,Karnataka,Free,Mobile,Mac,1.9,Yes,Tamil,Anirudh Ravichander,Tamil Film Soundtrack,2024-06-23,Tamil Hits 2025,72,High,0,9,1
+142,dil ka kiran,Anjali,anjali20@gmail.com,40,Punjab,Premium,iPad,Web,1.1,No,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2023-12-09,Hindi Hits 2025,363,High,3,4,14
+143,prema kirana,Anjali,anjali39@outlook.com,77,Karnataka,Family,Mobile,Web,4.7,No,Telugu,G.V. Prakash Kumar,Telugu Film Soundtrack,2024-07-21,Telugu Hits 2025,235,Very High,15,0,14
+144,kanasu swara,Gauri,gauri36@outlook.com,72,Tamilnadu,Family,Laptop,Android,2,Yes,Kannada,Arjun Janya,Kannada Film Soundtrack,2025-03-10,Kannada Hits 2025,142,High,0,10,14
+145,jashn di kiran,Ishaan,ishaan31@protonmail.com,41,Tamilnadu,Family,Mobile,Android,2.4,No,Punjabi,Diljit Dosanjh,Punjabi Pop,2024-04-11,Punjabi Hits 2025,129,Medium,20,0,3
+146,twilight glow,Liam,liam95@email.com,10,Punjab,Free,iPad,Android,1.7,Yes,English,Dua Lipa,Pop,2024-08-07,English Hits 2025,281,Medium,,8,16
+147,kadhal veedu,Karthik,karthik12@outlook.com,36,Karnataka,Free,Laptop,Mac,2,Yes,Tamil,A.R. Rahman,Tamil Film Soundtrack,2025-06-21,Tamil Hits 2025,294,Medium,20,1,18
+148,zindagi ka safar,Priya,priya54@hotmail.com,45,Karnataka,Free,Mobile,iOS,4.6,No,Hindi,Arijit Singh,Bollywood Film Soundtrack,2024-08-22,Hindi Hits 2025,91,Low,2,5,14
+149,telugu kanasu,Amelia,amelia90@yahoo.com,62,Tamilnadu,Free,Mobile,Web,3.4,No,Telugu,Santhosh Narayanan,Telugu Film Soundtrack,2023-09-24,Telugu Hits 2025,390,Very High,5,3,
+150,hrudaya thillana,Pritam,pritam38@outlook.com,43,Tamilnadu,Free,Mobile,Web,2.4,No,Kannada,B. Ajaneesh Loknath,Kannada Film Soundtrack,2025-08-01,Kannada Hits 2025,139,Very High,10,3,13
+151,nila kaatru,Simran,simran89@hotmail.com,21,Punjab,Family,Mobile,Web,4.7,No,Tamil,Yuvan Shankar Raja,Tamil Film Soundtrack,2024-08-03,Tamil Hits 2025,103,Medium,5,3,7
+152,khushi ke geet,Priya,priya60@protonmail.com,19,Andhra Pradesh,Premium,Laptop,iOS,4.5,Yes,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2025-03-21,Hindi Hits 2025,232,Low,3,5,13
+153,andhra geetham,Ramya,ramya52@protonmail.com,62,Punjab,Free,iPad,Mac,3.2,Yes,Telugu,Devi Sri Prasad,Telugu Film Soundtrack,2024-07-25,Telugu Hits 2025,236,Very High,3,4,2
+154,preethi kanasu,Liam,liam13@email.com,71,Tamilnadu,Free,iPad,iOS,3.3,No,Kannada,V. Harikrishna,Kannada Film Soundtrack,2023-08-29,Kannada Hits 2025,217,High,,,1
+155,dil da safar,Elijah,elijah74@protonmail.com,72,Punjab,Premium,Mobile,Web,1.1,Yes,Punjabi,Diljit Dosanjh,Punjabi Pop,2024-07-13,Punjabi Hits 2025,187,Medium,10,3,0
+156,city lights,Harman,harman41@protonmail.com,61,Delhi,Family,Laptop,Web,4.4,No,English,Billie Eilish,Alternative Pop,2024-08-20,English Hits 2025,199,Very High,1,5,9
+157,anbe kaatru,Chaitanya,chaitanya88@protonmail.com,44,Delhi,Premium,iPad,Android,4.6,No,Tamil,Anirudh Ravichander,Tamil Film Soundtrack,2024-12-19,Tamil Hits 2025,194,High,10,1,15
+158,khushi ka geet,Vikram,vikram52@protonmail.com,60,Andhra Pradesh,Family,Mobile,Mac,3.2,Yes,Hindi,Arijit Singh,Bollywood Film Soundtrack,2025-02-08,Hindi Hits 2025,259,Low,,8,18
+159,prema raaga,Ishaan,ishaan64@outlook.com,47,Delhi,Free,Laptop,Mac,4.2,No,Telugu,G.V. Prakash Kumar,Telugu Film Soundtrack,2024-03-01,Telugu Hits 2025,214,Low,,10,10
+160,kanasu kaveri,Oliver,oliver59@outlook.com,35,Punjab,Free,Mobile,iOS,4.5,Yes,Kannada,Arjun Janya,Kannada Film Soundtrack,2023-10-26,Kannada Hits 2025,213,High,10,2,0
+161,kadhal geethe,Olivia,olivia32@email.com,65,Delhi,Family,Mobile,Android,2.1,No,Tamil,A.R. Rahman,Tamil Film Soundtrack,2023-08-23,Tamil Hits 2025,290,Very High,2,4,12
+162,dil ki baat,Sneha,sneha87@email.com,64,Karnataka,Premium,Mobile,Web,2.5,No,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2024-01-14,Hindi Hits 2025,261,High,0,6,19
+163,telugu pata,Simran,simran37@yahoo.com,32,Tamilnadu,Free,Mobile,Mac,4.1,No,Telugu,Santhosh Narayanan,Telugu Film Soundtrack,2024-05-31,Telugu Hits 2025,129,High,20,1,0
+164,hrudaya raagam,Kavya,kavya95@yahoo.com,50,Punjab,Free,Mobile,Android,3.5,No,Kannada,B. Ajaneesh Loknath,Kannada Film Soundtrack,2024-08-21,Kannada Hits 2025,335,Very High,5,1,17
+165,pyaar ka raag,Navjot,navjot81@hotmail.com,16,Delhi,Premium,Laptop,iOS,2.1,No,Punjabi,Diljit Dosanjh,Punjabi Pop,2023-08-14,Punjabi Hits 2025,209,High,5,2,18
+166,stardust nights,Manpreet,manpreet40@yahoo.com,14,Delhi,Premium,iPad,Web,3.3,No,English,Dua Lipa,Pop,2025-07-24,English Hits 2025,399,Medium,20,1,10
+167,nila raagam,Anusha,anusha36@hotmail.com,48,Andhra Pradesh,Family,Mobile,Web,4.3,No,Tamil,Yuvan Shankar Raja,Tamil Film Soundtrack,2024-06-23,Tamil Hits 2025,78,Medium,1,5,1
+168,zindagi ka geet,James,james16@email.com,74,Tamilnadu,Premium,Laptop,Android,3.1,No,Hindi,Arijit Singh,Bollywood Film Soundtrack,2024-12-25,Hindi Hits 2025,188,Medium,,5,18
+169,andhra raagam,Jaspreet,jaspreet26@gmail.com,51,Tamilnadu,Family,Mobile,Android,1.8,No,Telugu,Devi Sri Prasad,Telugu Film Soundtrack,2024-05-11,Telugu Hits 2025,204,Low,1,5,5
+170,preethi geethe,Oliver,oliver67@outlook.com,12,Karnataka,Family,Laptop,Mac,2.8,Yes,Kannada,V. Harikrishna,Kannada Film Soundtrack,2025-06-30,Kannada Hits 2025,232,Low,2,2,11
+171,anbe raagam,Dhruv,dhruv82@hotmail.com,19,Punjab,Free,iPad,Android,2.2,No,Tamil,Anirudh Ravichander,Tamil Film Soundtrack,2024-12-19,Tamil Hits 2025,201,Low,10,1,4
+172,dil ka raaga,Priya,priya67@yahoo.com,61,Delhi,Family,Mobile,Web,3.5,Yes,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2025-06-08,Hindi Hits 2025,236,Low,10,3,17
+173,prema tharangam,Aditya,aditya94@gmail.com,51,Karnataka,Premium,iPad,Mac,4.5,Yes,Telugu,G.V. Prakash Kumar,Telugu Film Soundtrack,2023-09-03,Telugu Hits 2025,351,Medium,20,1,15
+174,kanasu raagam,Pooja,pooja72@email.com,35,Karnataka,Family,Mobile,Android,4,No,Kannada,Arjun Janya,Kannada Film Soundtrack,2025-01-01,Kannada Hits 2025,155,Very High,2,5,12
+175,jashn ka geet,Rohan,rohan26@email.com,60,Delhi,Premium,Mobile,Android,1.3,No,Punjabi,Diljit Dosanjh,Punjabi Pop,2025-01-11,Punjabi Hits 2025,392,High,10,1,13
+176,midnight glow,Diya,diya84@hotmail.com,15,Karnataka,Premium,iPad,Android,4.2,No,English,Billie Eilish,Alternative Pop,2025-05-18,English Hits 2025,207,High,,6,14
+177,kadhal raagam,Charlotte,charlotte92@hotmail.com,50,Delhi,Family,Mobile,Android,4.1,Yes,Tamil,A.R. Rahman,Tamil Film Soundtrack,2025-04-14,Tamil Hits 2025,356,Low,10,1,3
+178,khushi ki baat,Rahul,rahul73@email.com,68,Delhi,Family,Mobile,iOS,1.3,Yes,Hindi,Arijit Singh,Bollywood Film Soundtrack,2024-02-11,Hindi Hits 2025,385,Very High,5,3,2
+179,telugu swara,Kiran,kiran67@email.com,57,Punjab,Free,iPad,iOS,1.9,Yes,Telugu,Santhosh Narayanan,Telugu Film Soundtrack,2024-03-13,Telugu Hits 2025,199,Low,15,0,20
+180,hrudaya geethe,Simran,simran90@email.com,12,Karnataka,Premium,iPad,Android,3.6,Yes,Kannada,B. Ajaneesh Loknath,Kannada Film Soundtrack,2023-12-07,Kannada Hits 2025,378,Medium,0,8,15
+181,nila geethe,Elijah,elijah73@gmail.com,67,Punjab,Family,iPad,Android,4.5,Yes,Tamil,Yuvan Shankar Raja,Tamil Film Soundtrack,2024-11-23,Tamil Hits 2025,101,Low,0,5,13
+182,dil ki dhadkan,Aditya,aditya75@hotmail.com,51,Andhra Pradesh,Family,Mobile,Android,3.6,No,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2024-01-05,Hindi Hits 2025,197,High,3,2,20
+183,andhra swaram,Isha,isha78@gmail.com,51,Tamilnadu,Family,Mobile,Android,1.2,No,Telugu,Devi Sri Prasad,Telugu Film Soundtrack,2024-07-21,Telugu Hits 2025,243,High,3,2,1
+184,preethi kaveri,Deepthi,deepthi31@email.com,26,Punjab,Free,Mobile,Mac,4.7,No,Kannada,V. Harikrishna,Kannada Film Soundtrack,2024-07-13,Kannada Hits 2025,282,Very High,0,5,14
+185,dil di kiran,Gauri,gauri43@email.com,69,Andhra Pradesh,Free,Laptop,Web,3.1,No,Punjabi,Diljit Dosanjh,Punjabi Pop,2024-07-09,Punjabi Hits 2025,290,High,0,5,16
+186,starry dreams,Srinivas,srinivas97@hotmail.com,38,Andhra Pradesh,Free,iPad,Android,1.4,Yes,English,Dua Lipa,Pop,2025-07-22,English Hits 2025,392,Medium,2,3,20
+187,anbe paattu,Navjot,navjot31@email.com,41,Andhra Pradesh,Free,iPad,Mac,2.3,Yes,Tamil,Anirudh Ravichander,Tamil Film Soundtrack,2025-06-03,Tamil Hits 2025,197,Low,0,9,1
+188,zindagi ke geet,Emma,emma15@gmail.com,69,Delhi,Free,Mobile,Mac,2.6,No,Hindi,Arijit Singh,Bollywood Film Soundtrack,2024-12-08,Hindi Hits 2025,156,Medium,0,6,1
+189,kanasu thillana,Pranav,pranav84@protonmail.com,17,Andhra Pradesh,Family,iPad,Android,2.4,No,Kannada,Arjun Janya,Kannada Film Soundtrack,2024-04-15,Kannada Hits 2025,394,Medium,1,4,17
+190,kadhal kanasu,Jaspreet,jaspreet48@gmail.com,51,Punjab,Premium,Mobile,iOS,4.3,Yes,Tamil,A.R. Rahman,Tamil Film Soundtrack,2024-03-30,Tamil Hits 2025,235,Very High,5,1,2
+191,khushi ki raagam,Sujatha,sujatha35@hotmail.com,41,Delhi,Family,Laptop,iOS,2.7,Yes,Hindi,Shreya Ghoshal,Bollywood Film Soundtrack,2023-11-28,Hindi Hits 2025,105,Medium,20,0,1
+192,telugu tharangam,Isha,isha68@email.com,45,Andhra Pradesh,Family,iPad,iOS,4.9,Yes,Telugu,Santhosh Narayanan,Telugu Film Soundtrack,2025-04-27,Telugu Hits 2025,255,Low,15,1,3
+193,hrudaya kala,Sneha,sneha90@yahoo.com,77,Punjab,Family,Laptop,iOS,3.4,Yes,Kannada,B. Ajaneesh Loknath,Kannada Film Soundtrack,2024-02-24,Kannada Hits 2025,164,Low,10,1,18
+194,pyaar ka safar,Ranjit,ranjit49@email.com,67,Delhi,Family,Mobile,Android,4.7,No,Punjabi,Diljit Dosanjh,Punjabi Pop,2024-05-14,Punjabi Hits 2025,289,Medium,5,2,16
+195,cosmic dreams,Ranjit,ranjit49@hotmail.com,10,Tamilnadu,Family,iPad,Web,4.7,Yes,English,Billie Eilish,Alternative Pop,2025-04-26,English Hits 2025,102,High,1,3,8
+196,nila kanasu,Divya,divya80@yahoo.com,73,Tamilnadu,Free,Mobile,Mac,1,Yes,Tamil,Yuvan Shankar Raja,Tamil Film Soundtrack,2023-11-26,Tamil Hits 2025,162,Low,0,7,
+197,dil ke raagam,Liam,liam37@yahoo.com,26,Tamilnadu,Family,Laptop,Mac,3.9,No,Hindi,Arijit Singh,Bollywood Film Soundtrack,2024-05-01,Hindi Hits 2025,316,Medium,5,3,5
+198,andhra kanasu,Gurpreet,gurpreet97@outlook.com,59,Punjab,Family,Laptop,Android,1.3,Yes,Telugu,Devi Sri Prasad,Telugu Film Soundtrack,2025-03-10,Telugu Hits 2025,147,High,3,2,16
+199,preethi tharangam,Kavya,kavya44@yahoo.com,56,Punjab,Family,Laptop,Android,3,No,Kannada,V. Harikrishna,Kannada Film Soundtrack,2024-10-16,Kannada Hits 2025,229,Low,20,0,9
+200,anbe thendral,Simran,simran22@yahoo.com,72,Punjab,Family,iPad,Mac,1.3,No,,,,2024-03-16,,125,Medium,5,1,3
+201,house series,Chaitanya,chaitanya78@gmail.com,32,Andhra Pradesh,Premium,Mobile,iOS,1.2,Yes,Kannada,Shirley Hall,Pop,2023-10-04,Playlist_6,185,Medium,1,4,16
+202,cut officer,Isha,isha92@email.com,66,Andhra Pradesh,Free,Mobile,Web,1.7,No,English,Jessica Wade,Hip-Hop,2025-04-20,Playlist_174,182,High,1,5,17
+203,defense vote,Emma,emma15@outlook.com,27,Tamilnadu,Free,Mobile,Android,2.3,Yes,Hindi,Steven Rodriguez,Hip-Hop,2024-06-08,Playlist_23,365,Medium,20,0,11
+204,south city,Pooja,pooja56@outlook.com,44,Andhra Pradesh,Premium,iPad,Web,3,Yes,Kannada,Christopher Norton,EDM,2025-05-12,Playlist_183,194,Medium,10,1,12
+205,i board,Priya,priya51@gmail.com,59,Tamilnadu,Free,Laptop,Mac,3.8,No,English,Cory Galloway,Rock,2024-01-02,Playlist_285,286,High,,7,
+206,cost or,Teja,teja94@gmail.com,14,Karnataka,Premium,iPad,Android,4.5,Yes,Hindi,Katherine James,Rock,2023-12-08,Playlist_103,231,Very High,2,2,0
+207,economy vote,Teja,teja86@email.com,78,Andhra Pradesh,Free,iPad,Mac,4.2,Yes,Tamil,Leah Lopez,Classical,2025-06-23,Playlist_216,384,Medium,2,5,4
+208,term identify,Pritam,pritam53@yahoo.com,13,Tamilnadu,Family,Laptop,iOS,2.9,Yes,English,Keith Rich,EDM,2023-08-19,Playlist_43,208,High,0,10,13
+209,movie oil,Sophia,sophia49@email.com,29,Karnataka,Premium,Laptop,Android,2.8,No,Tamil,Brandon Freeman,Folk,2024-12-02,Playlist_123,255,Medium,10,2,12
+210,population leader,Jaspreet,jaspreet78@gmail.com,30,Delhi,Premium,Mobile,Web,4.8,Yes,Tamil,Andrew Yoder MD,Classical,2025-05-07,Playlist_104,172,High,1,2,3
+211,decade defense,Noah,noah13@hotmail.com,61,Tamilnadu,Family,iPad,Android,3.1,Yes,Tamil,Jon Collins,Rock,2023-08-26,Playlist_40,210,Very High,1,3,16
+212,still or,Oliver,oliver99@protonmail.com,54,Karnataka,Premium,Mobile,Web,4.1,Yes,English,Nicholas Benson,Classical,2023-10-18,Playlist_85,211,Medium,15,,17
+213,seat prevent,Isha,isha41@outlook.com,31,Andhra Pradesh,Family,iPad,iOS,2.8,Yes,Kannada,Travis Marquez,Rock,2024-12-31,Playlist_174,297,Medium,3,4,9
+214,staff dream,Ishaan,ishaan83@outlook.com,65,Punjab,Premium,Mobile,iOS,1.9,No,Tamil,Kaitlyn Franklin,Rock,2023-11-27,Playlist_12,62,High,15,1,15
+215,surface mother,Olivia,olivia63@protonmail.com,46,Punjab,Free,Mobile,Android,4.7,Yes,Telugu,Dennis Gray Jr.,Hip-Hop,2024-01-27,Playlist_128,65,Medium,1,5,20
+216,not determine,Pranav,pranav82@gmail.com,51,Delhi,Family,Laptop,Android,3.5,Yes,English,Austin Matthews,EDM,2024-04-11,Playlist_178,357,Very High,10,2,1
+217,account property,Karthik,karthik60@outlook.com,18,Andhra Pradesh,Free,Mobile,Web,3.1,Yes,Tamil,Andrew Myers,EDM,2023-09-07,Playlist_62,211,High,5,3,
+218,light speech,Priya,priya38@hotmail.com,77,Andhra Pradesh,Free,Mobile,iOS,4.7,Yes,Hindi,Lori Olson,EDM,2024-06-24,Playlist_141,334,High,0,9,13
+219,inside final,Sukhdev,sukhdev97@outlook.com,47,Tamilnadu,Premium,iPad,Web,4.8,No,Hindi,Amber Sanders,Classical,2023-12-20,Playlist_298,81,High,15,1,0
+220,scene relationship,Ramya,ramya96@outlook.com,75,Delhi,Family,Laptop,Web,1.2,No,Hindi,Sharon Davis,Hip-Hop,2025-04-12,Playlist_221,351,Very High,0,8,9
+221,manage attack,Chaitanya,chaitanya78@protonmail.com,78,Karnataka,Premium,Mobile,iOS,4.4,No,Kannada,Kimberly Young,Pop,2025-05-21,Playlist_127,349,Medium,5,3,0
+222,full early,Pritam,pritam55@protonmail.com,38,Karnataka,Free,Mobile,Mac,3.3,No,Tamil,Michael Thomas,Rock,2024-03-09,Playlist_156,130,Medium,2,2,5
+223,weight people,Shreyas,shreyas70@outlook.com,64,Karnataka,Family,Mobile,iOS,1.5,No,Telugu,Emily Fisher,Hip-Hop,2024-06-28,Playlist_289,259,Low,5,2,6
+224,key either,Liam,liam44@yahoo.com,13,Punjab,Premium,Laptop,iOS,2.2,Yes,Punjabi,Teresa Ferrell,Pop,2023-09-04,Playlist_47,223,Very High,,6,2
+225,understand campaign,Isha,isha29@hotmail.com,35,Andhra Pradesh,Family,Laptop,Web,4.2,No,Punjabi,Carlos Mcclure,EDM,2024-10-05,Playlist_179,242,Medium,10,1,19
+226,exist realize,Srinivas,srinivas83@email.com,68,Tamilnadu,Free,Laptop,Mac,4.1,Yes,Kannada,James Davis,Rock,2025-04-22,Playlist_150,353,Medium,5,2,0
+227,ask accept,Isha,isha10@email.com,71,Punjab,Free,iPad,Mac,1.4,Yes,Telugu,Jason Marshall,Pop,2025-05-02,Playlist_89,229,High,0,7,6
+228,understand here,Rahul,rahul82@gmail.com,71,Andhra Pradesh,Family,Mobile,Web,2.4,Yes,Tamil,Derek Garcia,Folk,2025-03-10,Playlist_195,250,High,3,2,2
+229,name situation,Isha,isha50@email.com,65,Delhi,Family,Laptop,Mac,1.2,No,Tamil,Colleen Smith,Pop,2024-10-03,Playlist_53,356,Medium,3,4,12
+230,dream sell,Vikram,vikram50@hotmail.com,36,Karnataka,Free,iPad,iOS,1.8,No,Telugu,Joshua Parrish,Rock,2023-12-10,Playlist_80,337,Medium,20,1,11
+231,memory example,Simran,simran39@hotmail.com,58,Karnataka,Family,Laptop,Web,4.9,Yes,Tamil,Becky Freeman,EDM,2024-05-04,Playlist_93,252,Low,0,10,6
+232,economy blue,Ranjit,ranjit18@outlook.com,63,Punjab,Premium,iPad,Web,1.3,No,Punjabi,Francis Williams,Rock,2024-03-02,Playlist_132,339,Low,0,5,13
+233,drive book,Deepak,deepak17@hotmail.com,38,Karnataka,Family,Mobile,iOS,3.7,No,Telugu,Noah Jennings,Rock,2024-12-27,Playlist_62,327,Very High,2,2,13
+234,technology high,Emma,emma97@outlook.com,17,Karnataka,Free,Mobile,Mac,1.8,Yes,Tamil,Larry Koch,Folk,2024-05-19,Playlist_97,299,Very High,,8,5
+235,style address,Gauri,gauri49@outlook.com,46,Karnataka,Free,Mobile,Mac,1.1,No,English,Jessica Green,Rock,2025-03-05,Playlist_177,286,High,15,1,8
+236,effect black,Pritam,pritam12@email.com,59,Karnataka,Premium,Mobile,Android,2.5,No,Telugu,Holly Marsh,Classical,2024-07-22,Playlist_86,316,High,1,4,10
+237,fall push,Diya,diya73@yahoo.com,14,Punjab,Free,iPad,Mac,1.3,No,Kannada,Sue Singh,Pop,2023-08-07,Playlist_49,311,High,10,2,2
+238,control opportunity,Anusha,anusha72@yahoo.com,44,Delhi,Premium,Laptop,Mac,2.5,No,Punjabi,Tracy Cooke,Pop,2023-08-07,Playlist_129,285,Medium,10,3,12
+239,watch staff,Charlotte,charlotte48@email.com,64,Tamilnadu,Premium,Laptop,Web,3.5,No,English,Samuel Collins,Pop,2025-02-12,Playlist_68,288,Medium,,10,15
+240,environmental help,Anjali,anjali12@gmail.com,73,Delhi,Free,iPad,Mac,2.7,No,Tamil,Kevin James,Pop,2024-07-07,Playlist_86,332,Medium,0,7,18
+241,nor arm,Priya,priya55@gmail.com,69,Punjab,Free,iPad,Mac,2.1,No,Telugu,Brittany Hill,Folk,2024-11-16,Playlist_26,197,Very High,3,3,20
+242,vote push,Nithya,nithya39@protonmail.com,36,Punjab,Free,Laptop,iOS,4,No,Kannada,Alejandro Stein,Hip-Hop,2023-12-04,Playlist_243,78,High,20,1,5
+243,practice figure,Emma,emma97@email.com,51,Delhi,Premium,iPad,Android,1.1,Yes,Kannada,Michael Joseph,Classical,2025-03-10,Playlist_138,85,Very High,20,1,6
+244,evidence item,Deepak,deepak25@gmail.com,63,Punjab,Free,Laptop,iOS,1.8,No,Kannada,Dylan Miller,Folk,2024-08-21,Playlist_130,284,High,2,5,1
+245,same argue,Vikram,vikram60@email.com,63,Karnataka,Free,iPad,Android,4.1,No,Telugu,Robert Wright,Pop,2025-07-31,Playlist_111,209,Very High,5,1,10
+246,prove end,Manpreet,manpreet15@hotmail.com,28,Punjab,Free,iPad,iOS,4.1,Yes,Telugu,John Estes,Classical,2025-07-31,Playlist_270,279,Very High,,9,19
+247,side stay,Jaspreet,jaspreet37@yahoo.com,77,Karnataka,Premium,Mobile,Mac,2.1,No,Hindi,Crystal Terry,Pop,2025-05-10,Playlist_108,274,Low,2,4,1
+248,provide send,Sandhya,sandhya11@outlook.com,61,Andhra Pradesh,Free,Mobile,Android,1.1,Yes,Telugu,April Martin,Pop,2024-11-26,Playlist_143,383,Medium,3,4,15
+249,east high,Isha,isha57@protonmail.com,14,Tamilnadu,Family,Laptop,Android,2.5,No,Telugu,Joseph Miller,Rock,2025-03-14,Playlist_269,80,Medium,15,1,5
+250,pick kid,James,james14@protonmail.com,36,Andhra Pradesh,Premium,iPad,Web,5,No,Kannada,Michele Dorsey MD,Classical,2024-08-26,Playlist_193,307,Very High,2,5,12
+251,to season,Diya,diya65@gmail.com,48,Punjab,Free,Mobile,Mac,2.6,Yes,English,Paul Williams,Pop,2025-01-30,Playlist_136,203,Medium,15,0,18
+252,interest customer,James,james53@email.com,76,Andhra Pradesh,Family,iPad,iOS,4.3,No,Telugu,Christopher Briggs,Folk,2023-09-08,Playlist_295,331,Low,15,0,10
+253,letter successful,Jaspreet,jaspreet28@gmail.com,29,Delhi,Free,Laptop,Web,1.1,Yes,English,Leonard Hall,Rock,2025-05-05,Playlist_86,99,Low,0,9,3
+254,heavy let,Anjali,anjali45@yahoo.com,45,Delhi,Premium,iPad,iOS,2,No,English,Susan Butler,Pop,2025-06-17,Playlist_120,361,Medium,10,2,16
+255,add card,Aarav,aarav85@outlook.com,45,Karnataka,Free,Laptop,Android,3.6,Yes,Tamil,Margaret Parker,Folk,2025-03-03,Playlist_198,249,High,3,2,10
+256,rich consumer,Noah,noah35@protonmail.com,74,Punjab,Premium,Laptop,iOS,2.8,Yes,English,Eric King,Hip-Hop,2024-07-16,Playlist_202,204,High,10,2,20
+257,learn nice,Gauri,gauri49@protonmail.com,30,Delhi,Free,Laptop,Android,1.6,No,Telugu,Amanda Fields,Pop,2024-08-14,Playlist_266,386,Medium,10,2,20
+258,else treat,Aarav,aarav27@protonmail.com,35,Andhra Pradesh,Family,iPad,Mac,3.7,No,Punjabi,Joshua Rowe,Folk,2025-06-26,Playlist_252,146,Low,20,0,
+259,especially like,Vikram,vikram80@outlook.com,50,Tamilnadu,Premium,iPad,Web,2,No,Tamil,Kristine Gilbert,EDM,2025-06-28,Playlist_251,73,Medium,3,4,10
+260,meeting age,Ramya,ramya28@email.com,45,Karnataka,Free,Mobile,Web,1.3,No,Tamil,Teresa Woods DDS,Folk,2024-02-23,Playlist_165,255,Low,20,0,11
+261,total effort,Vikram,vikram38@yahoo.com,73,Punjab,Free,Mobile,Web,2.4,No,Punjabi,David Thompson,Hip-Hop,2025-05-07,Playlist_247,225,Medium,15,0,13
+262,wind edge,Aditya,aditya57@yahoo.com,33,Punjab,Premium,Mobile,Android,1.1,Yes,Hindi,Richard Morales,Hip-Hop,2024-12-29,Playlist_185,256,High,1,5,1
+263,voice black,Charlotte,charlotte27@email.com,35,Tamilnadu,Family,Mobile,Mac,4.7,No,Tamil,Samantha Valdez,Rock,2025-03-31,Playlist_111,378,Very High,5,1,8
+264,after thing,Ranjit,ranjit72@hotmail.com,49,Delhi,Family,Mobile,iOS,4.8,No,Tamil,Natalie Cannon,Pop,2023-12-18,Playlist_299,394,Low,5,3,
+265,same toward,Aditya,aditya30@yahoo.com,15,Tamilnadu,Free,iPad,Web,1.8,Yes,English,Hannah Schmitt,Rock,2025-01-14,Playlist_26,383,High,15,0,
+266,pm know,Sneha,sneha19@email.com,57,Andhra Pradesh,Premium,iPad,Web,3.6,No,Punjabi,Lydia Parker,Pop,2024-05-02,Playlist_111,86,Medium,,6,16
+267,grow leader,Lakshmi,lakshmi69@email.com,47,Andhra Pradesh,Premium,Mobile,Mac,1.1,Yes,Kannada,Brittany Soto,Classical,2024-10-06,Playlist_238,279,High,20,0,8
+268,ability third,Kavya,kavya48@email.com,43,Punjab,Free,iPad,iOS,3.4,Yes,English,Kathleen Bowman,Hip-Hop,2024-03-05,Playlist_80,79,High,1,3,13
+269,time organization,Sai,sai53@hotmail.com,35,Punjab,Free,Mobile,Mac,4.7,No,Hindi,Pamela Spence,Hip-Hop,2023-10-25,Playlist_85,236,High,10,3,5
+270,career less,Charlotte,charlotte19@gmail.com,70,Andhra Pradesh,Free,Mobile,Web,4.4,Yes,Hindi,Dennis Rogers,Rock,2025-05-25,Playlist_25,144,Very High,1,5,11
+271,than education,Arjun,arjun71@hotmail.com,35,Andhra Pradesh,Family,Mobile,Web,4.2,No,English,Stacey Adams,Folk,2025-07-28,Playlist_54,388,Medium,20,0,10
+272,attention to,Rahul,rahul34@protonmail.com,75,Tamilnadu,Family,Laptop,iOS,2.2,Yes,Punjabi,Kevin Adams,Hip-Hop,2024-06-09,Playlist_198,217,Low,1,5,3
+273,however hospital,Vikram,vikram53@yahoo.com,23,Andhra Pradesh,Family,iPad,Android,1.5,No,Telugu,Rebecca Ferguson,Hip-Hop,2024-04-21,Playlist_285,235,Very High,5,1,5
+274,culture a,Liam,liam48@email.com,12,Tamilnadu,Premium,iPad,Mac,3.1,No,Kannada,Tammy Brown,Rock,2024-11-22,Playlist_79,338,Low,2,5,19
+275,determine old,Navjot,navjot22@protonmail.com,51,Tamilnadu,Premium,Mobile,iOS,2.3,No,Hindi,Laura Curry,Pop,2025-07-08,Playlist_47,160,Low,1,5,
+276,congress value,Amelia,amelia21@protonmail.com,41,Tamilnadu,Free,iPad,Android,4.2,Yes,English,Steven Ferrell,Rock,2024-11-21,Playlist_236,367,Medium,2,2,12
+277,each him,Jaya,jaya13@protonmail.com,78,Andhra Pradesh,Free,Laptop,Android,3.7,No,English,Mr. Jeremy Howard DDS,Rock,2024-08-09,Playlist_98,100,Very High,10,3,7
+278,purpose him,Srinivas,,71,Tamilnadu,Premium,iPad,Mac,2.4,Yes,English,Amanda Fields,EDM,2024-03-26,Playlist_86,360,Very High,0,9,3
+279,animal agent,Sneha,sneha78@gmail.com,27,Delhi,Premium,Laptop,Android,3.1,Yes,Kannada,Catherine Johnson,EDM,2024-06-28,Playlist_131,179,Low,20,1,7
+280,voice build,Olivia,olivia23@outlook.com,72,Punjab,Family,iPad,iOS,3.1,Yes,Tamil,Patrick Phillips,Pop,2024-12-10,Playlist_114,346,Medium,15,0,5
+281,cultural discover,Dhruv,dhruv42@email.com,38,Karnataka,Premium,iPad,Android,2.7,Yes,Punjabi,Douglas Hernandez,Folk,2023-12-27,Playlist_31,215,Low,10,2,4
+282,us child,Aditya,aditya48@yahoo.com,35,Punjab,Free,Laptop,Web,1.7,No,Kannada,Beth Fitzgerald,Classical,2023-11-09,Playlist_186,173,Very High,0,8,14
+283,against usually,Simran,simran73@outlook.com,18,Delhi,Family,Laptop,Android,3.2,Yes,Tamil,Austin Mitchell,Classical,2024-07-29,Playlist_162,153,Medium,5,2,0
+284,them actually,Aarav,aarav75@outlook.com,73,Delhi,Family,Mobile,Android,2.1,No,Kannada,Rachel Hill,Folk,2025-01-12,Playlist_248,289,High,,10,
+285,hear go,Jaya,jaya23@email.com,32,Tamilnadu,Family,iPad,Web,4.5,No,Tamil,Bradley Schaefer,EDM,2024-01-24,Playlist_53,161,Very High,5,1,14
+286,watch speak,Simran,simran95@gmail.com,39,Tamilnadu,Family,Mobile,iOS,3.4,No,Kannada,Brandon Williams,Rock,2025-01-28,Playlist_284,296,Low,20,0,3
+287,respond recognize,Noah,noah53@outlook.com,30,Karnataka,Free,iPad,Android,3.3,No,English,Patricia Hernandez,EDM,2025-03-23,Playlist_3,371,Medium,5,1,16
+288,long day,Anika,anika20@email.com,80,Andhra Pradesh,Family,Mobile,Mac,4.6,No,Kannada,Nathan Moore,Classical,2023-12-01,Playlist_2,268,Low,5,1,8
+289,let ever,Aarav,aarav41@outlook.com,64,Andhra Pradesh,Free,iPad,Mac,4.9,Yes,Tamil,Donald Patterson,Pop,2023-08-30,Playlist_31,287,Medium,20,0,13
+290,he society,Shreyas,shreyas71@yahoo.com,59,Delhi,Premium,iPad,Mac,2.1,No,Telugu,Steven Lara,EDM,2024-09-18,Playlist_106,337,High,5,2,11
+291,class fill,Rahul,rahul36@outlook.com,71,Karnataka,Premium,Mobile,Web,4.8,No,Telugu,Brandy Torres,EDM,2025-05-10,Playlist_90,207,Medium,2,4,3
+292,discuss class,Deepthi,deepthi66@outlook.com,35,Karnataka,Free,Laptop,Web,2.7,No,Punjabi,Clayton Vega,EDM,2024-04-07,Playlist_204,280,Very High,1,5,15
+293,we unit,Teja,teja86@gmail.com,78,Andhra Pradesh,Free,Laptop,iOS,4.6,Yes,Hindi,Guy Macias,EDM,2024-11-22,Playlist_228,83,Low,3,4,14
+294,window sing,Sukhdev,sukhdev37@outlook.com,16,Delhi,Premium,iPad,Web,1.9,No,Tamil,Matthew Reilly,Classical,2024-03-06,Playlist_172,383,Low,,7,11
+295,fill west,Vikram,vikram55@email.com,56,Delhi,Family,iPad,Mac,3.4,No,Tamil,Ashley Rosales,Pop,2024-12-11,Playlist_225,171,Low,,10,17
+296,situation instead,Dhruv,dhruv42@hotmail.com,21,Punjab,Family,Mobile,iOS,1.9,Yes,Telugu,Richard Ramsey,Hip-Hop,2023-12-29,Playlist_170,263,High,3,4,
+297,much yard,Diya,diya29@yahoo.com,45,Tamilnadu,Free,Mobile,iOS,2.5,No,Punjabi,Sydney Collins,Classical,2023-08-29,Playlist_192,315,Medium,,7,7
+298,under back,Arjun,arjun36@email.com,49,Andhra Pradesh,Premium,Laptop,Mac,4.8,No,Kannada,Melvin Wilson,Pop,2024-04-11,Playlist_28,111,High,10,1,12
+299,respond together,Gurpreet,gurpreet17@hotmail.com,72,Karnataka,Family,iPad,Android,3.6,No,Punjabi,James Davis,Folk,2023-08-13,Playlist_100,306,Very High,5,3,6
+300,forget board,Liam,liam27@protonmail.com,72,Tamilnadu,Family,Mobile,Android,1.5,No,Punjabi,Robert Thomas,Pop,2024-10-10,Playlist_62,137,Medium,,9,17
+301,range unit,Charlotte,charlotte21@yahoo.com,32,Punjab,Free,Mobile,Mac,4,No,Punjabi,Jonathon Ruiz,Rock,2024-04-11,Playlist_14,72,High,0,6,2
+302,article general,Jaya,jaya39@outlook.com,26,Tamilnadu,Premium,Laptop,Web,1.8,No,Tamil,Jennifer Lewis,Classical,2025-02-08,Playlist_181,200,Low,15,0,18
+303,charge protect,Nithya,nithya43@yahoo.com,58,Karnataka,Free,Mobile,Mac,1.4,Yes,English,Caleb Shaw,Hip-Hop,2023-11-23,Playlist_251,173,Very High,20,0,7
+304,shake people,Oliver,oliver45@outlook.com,78,Tamilnadu,Free,Mobile,Web,2.3,Yes,Tamil,Corey May,Hip-Hop,2023-10-11,Playlist_273,242,High,3,4,7
+305,identify assume,Chaitanya,chaitanya61@hotmail.com,13,Tamilnadu,Premium,iPad,iOS,3.8,No,Kannada,Steven Robinson,EDM,2023-12-25,Playlist_2,373,High,15,1,20
+306,strong pattern,Pranav,pranav51@yahoo.com,66,Andhra Pradesh,Free,iPad,iOS,4.3,No,Telugu,Kristen Jackson DDS,Folk,2023-12-01,Playlist_270,365,High,15,1,10
+307,lead cause,Pranav,pranav81@gmail.com,68,Delhi,Premium,iPad,Android,4.8,No,Punjabi,Amanda Montgomery,EDM,2025-03-10,Playlist_83,173,Very High,15,0,7
+308,garden new,Ishaan,ishaan40@email.com,59,Karnataka,Family,Laptop,Web,2.3,Yes,English,Joseph Kennedy,EDM,2023-11-05,Playlist_129,79,Medium,15,0,17
+309,cup into,Gurpreet,gurpreet44@outlook.com,46,Andhra Pradesh,Free,Mobile,Android,3.9,No,Hindi,Robert Callahan,EDM,2024-04-03,Playlist_137,266,Very High,2,2,13
+310,war throughout,Nithya,nithya12@email.com,65,Punjab,Family,iPad,iOS,1.8,No,Hindi,Aaron Compton,Hip-Hop,2024-08-20,Playlist_172,135,Very High,20,0,9
+311,draw sure,Sai,sai61@yahoo.com,64,Delhi,Premium,Laptop,Web,4.3,Yes,Punjabi,Nicole Schultz,EDM,2025-05-12,Playlist_198,218,High,1,2,18
+312,operation building,Rahul,rahul68@email.com,49,Karnataka,Premium,iPad,Web,4.9,No,Tamil,Tara Williams,Pop,2023-12-15,Playlist_79,111,Low,10,2,8
+313,me vote,Rohan,rohan53@gmail.com,47,Punjab,Premium,Mobile,Android,4.9,Yes,English,Julie Zuniga,Rock,2025-04-05,Playlist_228,140,Medium,10,1,12
+314,challenge stage,Priya,priya18@hotmail.com,42,Karnataka,Free,iPad,Web,3.2,Yes,English,Dana Hamilton,Pop,2024-02-04,Playlist_155,393,Medium,2,2,7
+315,go form,Deepthi,deepthi82@email.com,12,Karnataka,Premium,Mobile,iOS,2.3,No,Hindi,Thomas Whitehead,Pop,2025-04-03,Playlist_254,219,Medium,10,3,12
+316,see weight,Ramya,ramya89@protonmail.com,15,Karnataka,Free,Laptop,Android,2.5,No,Hindi,Cody Chandler,Hip-Hop,2023-09-20,Playlist_297,257,Low,3,2,17
+317,student window,Oliver,oliver79@yahoo.com,40,Andhra Pradesh,Family,Mobile,Web,3.9,Yes,Telugu,Corey May,Hip-Hop,2025-03-31,Playlist_229,231,Low,5,1,1
+318,coach lot,Sandhya,sandhya89@yahoo.com,16,Tamilnadu,Free,iPad,iOS,1.5,Yes,Kannada,Chase Adams,Pop,2024-08-28,Playlist_70,113,High,10,3,20
+319,some art,Emma,emma19@protonmail.com,36,Punjab,Family,Mobile,iOS,3.1,Yes,Tamil,Alan Forbes,Classical,2024-06-04,Playlist_111,257,High,5,1,14
+320,buy human,Isha,isha48@protonmail.com,50,Karnataka,Free,Laptop,iOS,3.3,No,Telugu,Jessica Wade,Pop,2025-02-25,Playlist_77,291,Low,2,5,11
+321,without dark,Elijah,elijah38@hotmail.com,54,Tamilnadu,Free,iPad,Mac,4.5,Yes,Telugu,Rebecca Morgan,Hip-Hop,2023-11-02,Playlist_261,93,Very High,1,5,16
+322,say despite,Rahul,rahul74@protonmail.com,71,Tamilnadu,Premium,Laptop,Android,1.1,Yes,Punjabi,Penny Stewart,Hip-Hop,2024-06-01,Playlist_257,349,Medium,0,8,
+323,sing tv,Charlotte,charlotte41@yahoo.com,74,Delhi,Premium,iPad,Mac,1.2,Yes,Punjabi,Aaron Compton,Folk,2025-02-25,Playlist_261,269,High,5,2,12
+324,politics must,Jaya,jaya83@outlook.com,53,Andhra Pradesh,Family,iPad,Android,1.5,No,Tamil,Brent Holt MD,Folk,2024-05-09,Playlist_211,241,High,,10,12
+325,perhaps stand,Pritam,pritam79@hotmail.com,60,Tamilnadu,Free,Laptop,iOS,3.8,No,English,Xavier Baker,Pop,2024-05-15,Playlist_243,122,Very High,10,3,
+326,successful those,Noah,noah62@gmail.com,26,Punjab,Premium,Laptop,Web,2,No,English,Kellie Stewart,Rock,2024-04-21,Playlist_214,305,Medium,20,0,13
+327,later million,Pooja,pooja64@hotmail.com,76,Tamilnadu,Free,iPad,iOS,2,Yes,Telugu,Michael Cruz,Folk,2025-04-25,Playlist_230,180,Medium,15,0,6
+328,red base,Dhruv,dhruv69@email.com,27,Delhi,Family,Mobile,iOS,3.5,Yes,Tamil,Shari Perry MD,Hip-Hop,2023-11-13,Playlist_3,295,Very High,1,3,4
+329,food baby,Diya,diya25@yahoo.com,32,Andhra Pradesh,Family,Mobile,Mac,4.6,Yes,Kannada,Shawn Patel,Folk,2025-01-21,Playlist_188,157,Low,15,1,1
+330,call election,Jaya,jaya91@email.com,35,Punjab,Premium,Laptop,iOS,3.9,Yes,Telugu,Heather Chavez,Hip-Hop,2025-04-30,Playlist_103,158,High,,10,
+331,pattern environmental,Simran,simran76@outlook.com,44,Punjab,Free,iPad,Mac,4,Yes,Hindi,Andrea Woodward,Folk,2024-11-27,Playlist_265,398,Medium,10,1,3
+332,someone task,Shreyas,shreyas95@email.com,26,Tamilnadu,Free,iPad,iOS,2.2,No,Telugu,Robert Anderson,Rock,2024-04-10,Playlist_158,258,Low,15,1,12
+333,manage manage,Kavya,kavya57@gmail.com,18,Karnataka,Family,iPad,iOS,1.3,Yes,Punjabi,Thomas Whitehead,EDM,2024-09-26,Playlist_218,82,Medium,20,0,20
+334,fear grow,Priya,priya60@email.com,73,Karnataka,Free,iPad,Web,4.7,Yes,Telugu,Joe Marsh,Folk,2024-03-25,Playlist_234,106,High,2,5,11
+335,face father,Isha,isha62@protonmail.com,52,Karnataka,Free,Laptop,Web,1.8,Yes,English,John Wilson,Pop,2024-12-21,Playlist_109,73,Medium,0,,17
+336,stay tough,Sukhdev,sukhdev86@email.com,53,Tamilnadu,Free,Mobile,iOS,2.7,No,Punjabi,Tanya Mckee,Pop,2025-01-20,Playlist_1,252,Very High,10,1,18
+337,tax production,Kiran,kiran40@gmail.com,65,Andhra Pradesh,Premium,Laptop,Mac,4.4,No,Punjabi,Michelle Murray,EDM,2024-05-10,Playlist_162,94,High,0,8,9
+338,chance find,Srinivas,srinivas53@hotmail.com,41,Tamilnadu,Family,Laptop,Mac,2,Yes,Hindi,Susan Deleon,Hip-Hop,2024-07-23,Playlist_179,241,Medium,20,0,10
+339,radio weight,Teja,teja60@outlook.com,79,Punjab,Free,Laptop,Android,2.8,Yes,Tamil,Zachary Alexander,Classical,2024-01-31,Playlist_176,94,High,,9,6
+340,fine energy,Sandhya,sandhya70@yahoo.com,67,Delhi,Premium,Mobile,Android,3,Yes,Kannada,Tracy Thomas,Rock,2024-06-06,Playlist_138,67,High,5,2,15
+341,environment appear,Jaya,jaya40@hotmail.com,22,Delhi,Free,iPad,iOS,3.2,Yes,Tamil,Brady Hill,Folk,2025-01-17,Playlist_228,379,Very High,5,3,20
+342,five hospital,Ramya,ramya48@yahoo.com,78,Karnataka,Premium,Laptop,iOS,1.5,No,Kannada,Zachary Berg,Pop,2025-05-21,Playlist_29,177,High,5,1,1
+343,activity staff,Chaitanya,chaitanya30@gmail.com,12,Tamilnadu,Free,Mobile,Android,3.7,Yes,English,Gary Jackson,EDM,2024-10-02,Playlist_296,178,Medium,20,0,9
+344,to deep,Olivia,olivia95@yahoo.com,66,Tamilnadu,Premium,Laptop,Web,3.5,No,Telugu,Monica Escobar,Classical,2024-06-02,Playlist_172,248,Low,15,1,4
+345,financial bed,Gurpreet,gurpreet11@email.com,17,Andhra Pradesh,Free,Mobile,Mac,1.4,No,Kannada,Michelle Alexander,Classical,2024-08-07,Playlist_222,209,High,10,2,13
+346,movement person,Sukhdev,sukhdev67@protonmail.com,32,Punjab,Free,iPad,Android,4.5,No,English,Jessica Burton,Classical,2025-07-10,Playlist_77,151,Very High,2,4,4
+347,around six,Isha,isha86@hotmail.com,78,Karnataka,Premium,Mobile,iOS,1.1,No,Tamil,Kristina Jackson,EDM,2025-03-20,Playlist_91,102,Medium,3,2,15
+348,blue change,Nithya,nithya93@email.com,21,Delhi,Family,Laptop,Web,2.2,Yes,Hindi,Carlos Wallace,Classical,2024-11-01,Playlist_298,211,Very High,0,8,2
+349,project hand,James,james90@outlook.com,63,Delhi,Family,Laptop,Android,1.7,No,Hindi,Jacqueline Carpenter,Pop,2024-01-29,Playlist_97,164,Medium,15,0,5
+350,character son,Aditya,aditya60@protonmail.com,26,Tamilnadu,Premium,Mobile,iOS,2.5,No,Telugu,Edward Fowler,Classical,2023-09-04,Playlist_211,91,High,2,4,7
+351,mind process,Sai,sai40@yahoo.com,28,Punjab,Premium,Mobile,Android,1.9,No,Tamil,Miguel Smith,Folk,2025-03-30,Playlist_270,376,Medium,5,1,4
+352,reduce natural,Charlotte,charlotte44@outlook.com,56,Karnataka,Free,iPad,Mac,1.7,No,Telugu,Paul Williams,Classical,2024-11-20,Playlist_208,237,Very High,2,4,5
+353,sell perform,Rohan,rohan46@protonmail.com,50,Punjab,Family,iPad,iOS,2.2,Yes,Punjabi,Richard Morgan,Folk,2024-01-26,Playlist_295,90,Low,3,5,5
+354,fill card,Sai,sai12@yahoo.com,25,Tamilnadu,Family,Mobile,Mac,3.7,Yes,Kannada,Amber Spencer,EDM,2025-06-15,Playlist_204,394,High,3,4,10
+355,base professor,Rahul,rahul51@yahoo.com,20,Delhi,Family,Laptop,Android,1.9,Yes,Telugu,Eileen Roth,Hip-Hop,2023-11-27,Playlist_280,394,Low,20,1,2
+356,himself according,Shreyas,shreyas85@yahoo.com,75,Tamilnadu,Premium,Laptop,Web,2.6,Yes,Hindi,Vickie Brown,Classical,2024-11-07,Playlist_146,271,Very High,10,3,0
+357,what exist,Deepak,deepak89@email.com,25,Tamilnadu,Family,Mobile,Mac,1.9,Yes,Telugu,Teresa Ferrell,Classical,2024-03-13,Playlist_144,77,High,15,0,2
+358,rather so,Deepthi,deepthi83@gmail.com,41,Karnataka,Family,Laptop,Mac,1.1,No,Telugu,Paul Williams,Hip-Hop,2024-03-12,Playlist_5,60,Medium,20,0,19
+359,itself radio,Ishaan,ishaan91@email.com,70,Karnataka,Family,Laptop,Web,3.6,Yes,Kannada,Susan Davis,Pop,2024-07-01,Playlist_55,306,Very High,1,4,2
+360,day difficult,Anika,anika46@outlook.com,69,Andhra Pradesh,Premium,Laptop,iOS,1.1,Yes,Tamil,Brittany Hughes,EDM,2024-07-16,Playlist_130,400,Medium,1,3,16
+361,save brother,Noah,noah57@protonmail.com,47,Karnataka,Family,Laptop,Web,3.8,Yes,English,Stacey Adams,Classical,2025-05-26,Playlist_156,173,Very High,15,1,18
+362,care traditional,Noah,noah64@yahoo.com,69,Punjab,Family,Laptop,Mac,4.7,Yes,Kannada,Monique Trujillo,EDM,2025-05-11,Playlist_21,276,Very High,2,2,4
+363,try his,Anjali,anjali58@email.com,62,Punjab,Free,Laptop,Web,2.9,No,Tamil,Andre Franklin,Hip-Hop,2024-12-24,Playlist_20,178,Low,0,10,9
+364,note fact,Anusha,anusha76@yahoo.com,59,Delhi,Free,Laptop,Android,4,Yes,English,George Watkins,Pop,2023-11-11,Playlist_197,310,High,2,5,
+365,yes receive,James,james63@hotmail.com,12,Punjab,Family,Mobile,iOS,3.9,Yes,Hindi,Christina Randall,Rock,2024-06-16,Playlist_10,286,High,5,1,7
+366,station support,Sai,sai60@protonmail.com,65,Andhra Pradesh,Premium,Laptop,Web,4.6,No,Punjabi,Dennis Burch,Pop,2024-07-09,Playlist_254,281,Medium,15,1,6
+367,music summer,Jaspreet,jaspreet90@hotmail.com,37,Karnataka,Free,Mobile,Web,2.3,Yes,Telugu,Anthony Richards,Classical,2024-12-10,Playlist_208,211,Medium,0,10,20
+368,top interview,Sophia,sophia18@protonmail.com,40,Andhra Pradesh,Premium,Mobile,Android,2.1,No,Hindi,Brittany Rosales,Pop,2024-07-12,Playlist_224,310,High,1,5,3
+369,wait admit,Emma,emma96@protonmail.com,38,Delhi,Family,iPad,iOS,3.5,Yes,Kannada,Paul Carter,EDM,2024-03-05,Playlist_83,256,Low,5,2,16
+370,lead economy,Pranav,pranav49@gmail.com,34,Punjab,Free,iPad,Mac,1.3,No,Tamil,Dylan Miller,EDM,2025-02-04,Playlist_267,120,Very High,20,0,12
+371,whole ground,Anika,anika62@hotmail.com,48,Andhra Pradesh,Free,Mobile,Mac,4.8,No,Hindi,Brooke Wilson,Folk,2024-11-18,Playlist_292,187,Very High,3,2,3
+372,guy course,Rohan,rohan63@hotmail.com,23,Andhra Pradesh,Free,iPad,iOS,4,No,Tamil,James Hudson,Rock,2023-08-22,Playlist_241,142,High,3,4,11
+373,born happen,Priya,priya60@hotmail.com,29,Punjab,Free,Mobile,Mac,2.1,No,Hindi,Mr. Erik Taylor,Pop,2025-01-31,Playlist_166,200,Low,10,3,11
+374,within challenge,Ranjit,ranjit64@email.com,68,Punjab,Free,Laptop,Android,1.9,No,Hindi,Corey May,Classical,2024-10-01,Playlist_207,132,Very High,15,0,4
+375,issue voice,Liam,liam54@yahoo.com,44,Andhra Pradesh,Family,iPad,Android,1.1,No,Punjabi,Todd Castro,Pop,2024-02-12,Playlist_11,279,Very High,,6,1
+376,operation stage,Diya,diya40@email.com,74,Karnataka,Free,iPad,Web,3.4,No,Telugu,Kent Ho,Hip-Hop,2025-05-14,Playlist_298,214,Low,10,2,1
+377,prepare investment,Sai,sai83@gmail.com,58,Karnataka,Family,iPad,Mac,1.5,Yes,Kannada,Kelly Conner,EDM,2023-10-28,Playlist_136,293,Very High,5,2,16
+378,chance for,Emma,emma98@protonmail.com,76,Delhi,Free,Laptop,Mac,1.5,Yes,Tamil,Miguel Hamilton,Hip-Hop,2025-01-02,Playlist_196,170,Very High,2,4,15
+379,memory mission,Anjali,anjali56@email.com,29,Punjab,Family,Mobile,iOS,4.3,Yes,Hindi,Tara Williams,Rock,2025-03-23,Playlist_286,243,Medium,3,3,15
+380,teacher with,Amelia,amelia68@gmail.com,50,Karnataka,Family,Laptop,iOS,1.2,Yes,Hindi,Penny Stewart,Pop,2025-05-19,Playlist_261,276,Very High,10,3,18
+381,along event,Pranav,pranav18@email.com,41,Andhra Pradesh,Free,iPad,Android,3.4,No,Punjabi,Christopher Miller,Rock,2024-04-10,Playlist_41,163,Medium,0,6,19
+382,business future,Sai,sai62@outlook.com,77,Delhi,Premium,Mobile,Web,2.7,Yes,English,Chase Adams,Hip-Hop,2025-03-05,Playlist_99,210,Low,3,2,20
+383,book fire,Karthik,karthik92@outlook.com,51,Tamilnadu,Free,Mobile,Web,1.8,Yes,Punjabi,Monique Trujillo,Folk,2025-03-04,Playlist_8,80,Medium,,8,11
+384,likely experience,Anjali,anjali53@email.com,13,Tamilnadu,Family,iPad,iOS,3.1,Yes,English,Pamela Spence,Rock,2025-06-09,Playlist_121,75,Low,10,1,10
+385,message follow,Harman,harman83@outlook.com,38,Tamilnadu,Premium,Laptop,Web,2.6,Yes,Telugu,Ashley Miller,EDM,2024-10-30,Playlist_244,132,Very High,,9,6
+386,economy own,Ranjit,ranjit70@hotmail.com,19,Karnataka,Free,iPad,Mac,4.2,No,Punjabi,Robert Perry,Classical,2024-10-11,Playlist_276,312,High,15,1,
+387,meeting record,Sujatha,sujatha47@protonmail.com,72,Punjab,Premium,Mobile,iOS,4.1,Yes,Kannada,Latasha Joyce,EDM,2024-05-26,Playlist_182,136,Low,10,2,2
+388,candidate letter,Dhruv,dhruv17@hotmail.com,56,Andhra Pradesh,Premium,Mobile,Mac,3.6,Yes,English,Eric Simpson,Pop,2023-10-03,Playlist_288,124,High,1,5,8
+389,trial economy,Charlotte,charlotte10@yahoo.com,56,Punjab,Family,Mobile,iOS,3.5,No,Punjabi,Sarah Smith,Classical,2025-01-26,Playlist_265,94,Very High,1,3,2
+390,successful stuff,Anjali,anjali21@protonmail.com,25,Karnataka,Family,Mobile,Web,3.1,Yes,Kannada,Lisa Soto,Hip-Hop,2024-09-03,Playlist_185,281,Medium,0,7,14
+391,world eye,Karthik,karthik44@outlook.com,31,Punjab,Premium,Mobile,Mac,1.7,No,Hindi,Jessica Shah,EDM,2025-04-05,Playlist_169,266,Medium,,7,11
+392,huge those,Aarav,aarav74@yahoo.com,29,Tamilnadu,Free,iPad,iOS,2.8,No,Punjabi,Laura Hogan,EDM,2025-06-02,Playlist_84,271,Low,3,2,3
+393,half drop,Sukhdev,sukhdev87@yahoo.com,45,Tamilnadu,Premium,Laptop,iOS,4.1,No,Telugu,Francis Williams,Rock,2025-06-25,Playlist_201,349,High,0,5,9
+394,me forget,Aditya,aditya32@outlook.com,16,Tamilnadu,Free,Mobile,Web,1.5,No,Telugu,John Wagner,Hip-Hop,2025-05-12,Playlist_100,282,Medium,20,1,20
+395,almost hospital,Pooja,pooja89@outlook.com,71,Karnataka,Free,Laptop,Web,2.4,Yes,English,James Davis,Classical,2025-01-30,Playlist_145,297,Very High,3,3,2
+396,score card,Sukhdev,sukhdev55@hotmail.com,79,Delhi,Premium,iPad,iOS,4.4,Yes,Punjabi,Christopher Simmons,Folk,2024-08-16,Playlist_118,183,Medium,10,3,4
+397,clear attention,Diya,diya62@hotmail.com,52,Andhra Pradesh,Free,Mobile,Mac,3.2,Yes,Punjabi,Lauren Dennis,Classical,2024-09-19,Playlist_4,277,Very High,20,0,3
+398,ball receive,Nithya,nithya96@email.com,43,Tamilnadu,Premium,iPad,iOS,4.3,No,English,James Leon,Folk,2025-07-06,Playlist_179,80,Low,2,4,10
+399,seat may,Arjun,arjun39@yahoo.com,76,Punjab,Premium,iPad,Mac,2.2,Yes,Telugu,Kristine Gilbert,Pop,2024-11-25,Playlist_8,163,Very High,1,3,1
+400,remain learn,Charlotte,charlotte20@yahoo.com,18,Delhi,Free,Laptop,Android,3.5,Yes,Hindi,Mitchell Patton,EDM,2023-12-24,Playlist_251,145,Very High,2,3,9
+401,social now,Chaitanya,chaitanya96@yahoo.com,11,Delhi,Premium,iPad,Web,1.6,Yes,English,Elizabeth Ellis,Pop,2025-07-29,Playlist_15,231,Medium,10,3,4
+402,everything shake,Olivia,olivia90@hotmail.com,25,Punjab,Free,Laptop,Mac,1.3,Yes,Tamil,Michael Gibson,Rock,2024-10-08,Playlist_67,88,Very High,2,2,15
+403,shoulder very,Sai,sai20@email.com,10,Karnataka,Free,Laptop,Android,2.8,Yes,Telugu,Kathryn Lyons,Folk,2025-06-29,Playlist_85,288,Low,0,10,7
+404,mind population,Teja,teja93@protonmail.com,67,Tamilnadu,Family,Laptop,Mac,2,Yes,Telugu,Jonathan Rhodes,EDM,2025-03-04,Playlist_28,382,High,5,,8
+405,dog describe,Dhruv,dhruv42@hotmail.com,32,Andhra Pradesh,Premium,Laptop,iOS,2.8,Yes,Kannada,Mary Oneill,Folk,2023-12-15,Playlist_239,239,High,2,5,17
+406,hour hospital,Manpreet,manpreet68@hotmail.com,80,Andhra Pradesh,Family,Laptop,Android,2.3,No,Punjabi,Larry Aguilar,Classical,2025-04-12,Playlist_76,208,Medium,0,7,16
+407,apply fund,Elijah,elijah50@gmail.com,58,Delhi,Family,Mobile,iOS,1.9,No,English,Chelsea Blevins,Classical,2025-04-25,Playlist_125,244,Medium,20,0,1
+408,without kind,James,james48@hotmail.com,61,Tamilnadu,Family,iPad,Web,4.5,Yes,Hindi,Jennifer Jones,Classical,2024-03-04,Playlist_73,78,Low,3,5,0
+409,room technology,Oliver,oliver93@yahoo.com,19,Karnataka,Family,Mobile,Mac,2.6,Yes,Telugu,Kathy Mckinney,Classical,2024-02-06,Playlist_182,381,High,15,1,2
+410,question suffer,Ishaan,ishaan32@email.com,40,Andhra Pradesh,Family,Mobile,Android,3.6,No,English,Craig Barnett,Rock,2023-08-29,Playlist_284,226,Low,1,5,1
+411,somebody manage,Deepak,deepak87@yahoo.com,23,Karnataka,Family,Mobile,Web,3.1,No,Punjabi,Rebecca Morgan,Classical,2025-05-03,Playlist_199,124,Very High,10,3,15
+412,piece you,Harman,harman50@protonmail.com,32,Punjab,Family,iPad,Web,1.4,Yes,Punjabi,Ashley Rosales,EDM,2024-02-27,Playlist_246,295,High,0,8,0
+413,population industry,Rahul,rahul90@protonmail.com,15,Punjab,Premium,Mobile,Mac,4.6,No,Hindi,Jacob Martinez,Hip-Hop,2024-11-15,Playlist_144,307,Medium,,6,3
+414,president happen,Sandhya,sandhya25@email.com,29,Delhi,Family,Laptop,Mac,1,Yes,English,Michael Cruz,EDM,2024-06-05,Playlist_8,123,High,5,2,11
+415,right kitchen,Divya,divya92@email.com,20,Delhi,Free,Laptop,Android,1.3,No,Telugu,Olivia Frazier,Folk,2024-06-14,Playlist_39,141,Very High,2,2,9
+416,mean loss,Priya,priya75@gmail.com,54,Punjab,Free,Mobile,Android,4.4,Yes,Telugu,Tanya Mckee,Folk,2024-08-16,Playlist_118,139,Very High,3,3,
+417,affect suggest,Pooja,pooja43@hotmail.com,29,Andhra Pradesh,Family,Mobile,Android,3.2,Yes,Telugu,Aaron Medina,EDM,2023-09-27,Playlist_57,207,Medium,2,4,9
+418,surface follow,Sneha,sneha10@gmail.com,62,Delhi,Premium,Mobile,Web,1.7,Yes,Telugu,Dana Hamilton,Rock,2024-06-01,Playlist_61,236,Medium,20,0,16
+419,girl health,Deepak,deepak91@gmail.com,59,Tamilnadu,Free,iPad,Mac,3.1,Yes,English,Dennis Burch,Hip-Hop,2024-07-12,Playlist_165,213,Low,2,5,19
+420,research executive,Ishaan,ishaan81@outlook.com,50,Andhra Pradesh,Premium,iPad,Android,3.3,No,Hindi,Michael Ford,Rock,2025-02-21,Playlist_57,222,Medium,15,0,16
+421,quickly safe,Rohan,rohan17@hotmail.com,57,Punjab,Family,iPad,Mac,2.9,Yes,Kannada,Roger Wood,Hip-Hop,2025-07-28,Playlist_4,138,Very High,1,5,
+422,usually government,Isha,isha93@yahoo.com,27,Tamilnadu,Premium,Mobile,Mac,1.2,No,Punjabi,Mrs. Debbie Johnson,Rock,2024-09-17,Playlist_243,305,Low,1,2,9
+423,half hospital,Aarav,aarav27@hotmail.com,59,Tamilnadu,Family,Laptop,Mac,3.2,Yes,Tamil,Noah Baker,EDM,2024-07-27,Playlist_206,202,Medium,,8,6
+424,see manage,Oliver,oliver89@gmail.com,18,Tamilnadu,Free,iPad,iOS,2.6,Yes,Tamil,Isaiah Steele,Hip-Hop,2025-07-22,Playlist_22,98,High,15,1,11
+425,program market,Simran,simran94@gmail.com,73,Karnataka,Free,iPad,Android,1,No,Punjabi,Stephanie Hayes,Rock,2025-01-27,Playlist_57,114,Very High,5,1,12
+426,debate low,Lakshmi,lakshmi52@gmail.com,64,Punjab,Family,iPad,Mac,2.3,No,English,Mark Conner Jr.,Hip-Hop,2024-06-17,Playlist_89,173,Very High,,7,20
+427,though main,Chaitanya,chaitanya92@yahoo.com,60,Punjab,Premium,iPad,Mac,4.3,Yes,English,Jason Zimmerman DDS,Hip-Hop,2023-11-29,Playlist_126,98,Very High,10,2,15
+428,office understand,Isha,isha28@email.com,64,Andhra Pradesh,Free,Mobile,Android,2,No,Tamil,Mark Turner Jr.,Classical,2024-09-10,Playlist_264,255,Low,2,3,16
+429,time rather,Deepthi,deepthi16@hotmail.com,73,Punjab,Family,Laptop,Android,3.8,No,Telugu,Xavier Baker,Folk,2024-07-15,Playlist_103,196,Low,1,3,4
+430,company not,Gurpreet,gurpreet15@protonmail.com,37,Tamilnadu,Family,Mobile,Mac,1.6,Yes,Hindi,Philip Rogers,Folk,2025-04-30,Playlist_27,67,High,,7,6
+431,ten energy,Divya,divya14@gmail.com,50,Delhi,Family,iPad,Web,1.4,No,Telugu,Donna Webb,Hip-Hop,2024-08-11,Playlist_98,201,High,1,5,20
+432,product of,Diya,diya42@email.com,67,Andhra Pradesh,Family,iPad,Android,3,Yes,Telugu,Bradley Rodriguez,EDM,2024-08-01,Playlist_269,95,Very High,10,2,14
+433,shoulder check,Oliver,oliver32@hotmail.com,63,Punjab,Premium,Mobile,Mac,1.2,Yes,Tamil,Pamela Phillips,EDM,2024-01-30,Playlist_161,320,Low,,7,6
+434,book memory,Arjun,arjun80@hotmail.com,65,Karnataka,Family,iPad,Mac,3.6,No,Hindi,Jennifer Moore,Classical,2024-07-03,Playlist_205,350,Low,,10,20
+435,drive couple,Ranjit,ranjit63@outlook.com,70,Punjab,Premium,Mobile,Mac,2.5,No,English,Gina Holland,Pop,2025-06-29,Playlist_38,280,Very High,20,0,
+436,story order,Jaspreet,jaspreet36@email.com,67,Delhi,Free,Laptop,Android,3.5,Yes,Hindi,Matthew Mann,Hip-Hop,2025-01-09,Playlist_139,278,Very High,0,6,20
+437,rich individual,Vikram,vikram96@protonmail.com,48,Karnataka,Free,Mobile,Android,3.6,No,Punjabi,Julian Maxwell,Pop,2025-07-17,Playlist_206,107,Medium,0,9,
+438,able wear,Teja,,16,Punjab,Premium,Laptop,Web,4,Yes,Telugu,Peter Lozano,Rock,2025-04-14,Playlist_27,190,Medium,,7,5
+439,build big,Sujatha,sujatha25@yahoo.com,79,Andhra Pradesh,Premium,iPad,Android,4.4,No,Kannada,Brandi Davis,Rock,2024-12-02,Playlist_110,136,Very High,3,5,16
+440,say across,Arjun,arjun81@email.com,26,Tamilnadu,Free,iPad,Web,2.4,No,English,Danny Vasquez,Folk,2024-04-16,Playlist_86,232,Very High,,6,18
+441,since specific,Anjali,anjali63@gmail.com,70,Delhi,Free,Laptop,Web,2.6,No,Kannada,Michael Gibson,EDM,2024-09-04,Playlist_135,161,Medium,1,4,5
+442,major own,Ranjit,ranjit78@email.com,33,Punjab,Premium,iPad,iOS,3.9,No,Telugu,Kimberly Garrett,Classical,2023-09-17,Playlist_280,246,High,5,3,16
+443,read until,Dhruv,dhruv93@yahoo.com,78,Andhra Pradesh,Premium,iPad,iOS,1.3,No,Punjabi,Kevin Duffy,Folk,2023-12-25,Playlist_96,129,High,10,2,8
+444,quality a,Deepthi,deepthi24@email.com,18,Delhi,Free,iPad,Android,2.5,No,Hindi,Roger Wood,Classical,2023-08-20,Playlist_119,99,Medium,5,2,18
+445,keep line,Dhruv,dhruv81@outlook.com,60,Karnataka,Family,iPad,Web,2.2,Yes,Punjabi,Brittany Jenkins,EDM,2023-08-11,Playlist_277,275,High,10,1,7
+446,minute model,Dhruv,dhruv64@hotmail.com,10,Tamilnadu,Free,iPad,iOS,1.9,Yes,English,Tom White,Hip-Hop,2025-03-21,Playlist_24,107,High,,8,8
+447,theory result,Priya,priya71@hotmail.com,79,Punjab,Family,Mobile,iOS,1.5,Yes,English,Jason Simmons,Hip-Hop,2025-01-10,Playlist_14,232,Medium,5,1,13
+448,music particular,Amelia,amelia24@hotmail.com,33,Andhra Pradesh,Premium,Laptop,Web,3.5,Yes,Hindi,Kristina Little,Pop,2024-08-17,Playlist_222,124,Low,3,5,5
+449,onto off,Diya,diya39@protonmail.com,17,Andhra Pradesh,Premium,Mobile,Android,1.4,Yes,Punjabi,Joseph Scott,Rock,2024-05-07,Playlist_13,75,High,10,2,11
+450,everybody phone,Deepak,deepak73@outlook.com,61,Karnataka,Family,Laptop,Android,4.7,Yes,Kannada,Karen Barnes,EDM,2025-04-10,Playlist_289,99,Very High,20,0,8
+451,behavior drug,Isha,isha95@email.com,43,Tamilnadu,Premium,iPad,Mac,1.3,No,Telugu,Jill Carlson,EDM,2024-11-12,Playlist_88,87,Medium,3,2,2
+452,president deep,Deepthi,deepthi98@email.com,31,Delhi,Premium,iPad,Android,1.3,Yes,English,Heather Chavez,Classical,2024-11-29,Playlist_39,379,Low,5,1,5
+453,address left,Divya,divya42@email.com,10,Tamilnadu,Premium,Mobile,Web,2.6,Yes,Telugu,Jesse Hopkins,Rock,2024-04-05,Playlist_13,190,Very High,5,1,0
+454,clearly him,Shreyas,shreyas63@hotmail.com,35,Andhra Pradesh,Family,Mobile,Web,3,Yes,Kannada,Cindy Davis,Folk,2024-02-09,Playlist_292,383,High,20,1,6
+455,nature current,Kiran,kiran70@outlook.com,66,Andhra Pradesh,Family,Mobile,Mac,3.6,No,Hindi,Mark Mann,Pop,2024-02-25,Playlist_242,61,High,5,3,10
+456,ask artist,Vikram,vikram57@outlook.com,54,Delhi,Free,Laptop,Android,1.2,Yes,Telugu,Ashley Miller,Pop,2025-05-17,Playlist_151,142,Medium,10,1,3
+457,bit if,Oliver,oliver59@yahoo.com,13,Tamilnadu,Free,iPad,Android,3.9,Yes,English,Rebecca Roach,Folk,2023-12-03,Playlist_64,121,Very High,1,3,5
+458,ready strong,Arjun,arjun32@hotmail.com,46,Delhi,Family,Laptop,Android,1.7,No,Kannada,Jennifer Wolfe,Pop,2024-10-29,Playlist_245,299,Medium,10,1,20
+459,soldier cold,Emma,emma51@gmail.com,60,Tamilnadu,Family,Laptop,Android,4.3,Yes,Telugu,Toni Norris,Folk,2024-07-12,Playlist_193,95,Very High,,8,16
+460,growth really,Kavya,kavya95@gmail.com,63,Punjab,Free,Laptop,Mac,2.9,Yes,Hindi,Martha Mcguire,Rock,2024-07-07,Playlist_21,160,Low,3,3,12
+461,side number,Aman,aman38@outlook.com,69,Andhra Pradesh,Premium,Mobile,Web,2.1,No,Telugu,Brett Hubbard,Pop,2024-02-26,Playlist_160,226,High,,7,13
+462,east morning,Oliver,oliver41@email.com,31,Tamilnadu,Premium,iPad,iOS,3.4,No,Tamil,Jessica Scott,Rock,2025-03-19,Playlist_62,89,High,0,10,11
+463,perhaps hope,Karthik,karthik88@outlook.com,47,Delhi,Premium,Mobile,Web,1.6,No,Punjabi,Margaret Parker,Pop,2024-09-23,Playlist_200,228,Low,3,5,5
+464,only worry,Sophia,sophia47@yahoo.com,22,Andhra Pradesh,Family,Mobile,Mac,3.4,No,Hindi,Matthew Jimenez,EDM,2024-03-23,Playlist_30,194,Medium,3,2,19
+465,paper leave,Jaspreet,jaspreet59@protonmail.com,73,Andhra Pradesh,Free,Laptop,Android,4.8,Yes,Kannada,Roger Wood,EDM,2025-02-13,Playlist_29,361,Medium,1,5,20
+466,significant large,Kiran,kiran86@hotmail.com,27,Karnataka,Premium,Mobile,Android,1.8,No,Hindi,Kristine Gilbert,Hip-Hop,2024-05-31,Playlist_92,241,Very High,,6,18
+467,case protect,Sai,sai47@email.com,11,Punjab,Free,Laptop,Mac,3.8,No,Tamil,Marcus Holland,Rock,2024-11-21,Playlist_201,86,Medium,3,3,
+468,dream right,Pooja,pooja76@gmail.com,68,Andhra Pradesh,Premium,Mobile,Android,2.6,Yes,Tamil,Sarah Freeman,EDM,2024-07-24,Playlist_299,260,Very High,3,4,13
+469,blood body,Deepthi,deepthi17@protonmail.com,10,Karnataka,Premium,Mobile,iOS,2.9,No,Kannada,Amanda Krueger,Classical,2024-09-27,Playlist_202,274,Very High,10,3,5
+470,cup newspaper,Aman,aman11@hotmail.com,31,Delhi,Free,Mobile,Mac,1.4,Yes,Kannada,Rebecca Jones,Pop,2024-07-29,Playlist_39,245,High,5,1,
+471,relationship around,Pranav,pranav14@protonmail.com,33,Andhra Pradesh,Family,Laptop,iOS,1.9,No,Punjabi,Joseph Benson,Hip-Hop,2024-10-13,Playlist_281,105,High,1,5,16
+472,reflect lay,Rahul,rahul85@outlook.com,65,Andhra Pradesh,Free,Laptop,iOS,3.9,No,Hindi,Amanda Montgomery,Classical,2025-02-26,Playlist_244,362,Medium,10,3,20
+473,think order,Aman,aman65@gmail.com,76,Tamilnadu,Free,Laptop,Mac,2.9,Yes,Kannada,Christopher Miller,Hip-Hop,2025-05-09,Playlist_268,246,Medium,20,0,9
+474,their knowledge,Priya,priya23@protonmail.com,53,Delhi,Family,Laptop,Web,3.6,Yes,English,Scott Jackson,Classical,2024-01-14,Playlist_67,104,Low,2,2,
+475,class author,Vikram,vikram47@outlook.com,35,Andhra Pradesh,Family,Laptop,Android,5,No,Kannada,Lawrence Dixon,EDM,2025-01-03,Playlist_1,299,Low,15,0,13
+476,suffer student,Lakshmi,lakshmi83@hotmail.com,68,Punjab,Free,iPad,Web,5,No,Kannada,Elizabeth Cole,Rock,2024-07-15,Playlist_275,213,High,5,3,5
+477,guess reality,Sophia,sophia77@outlook.com,36,Tamilnadu,Family,Mobile,Android,4.8,No,Kannada,Michael Hansen,Hip-Hop,2025-06-01,Playlist_234,249,High,20,1,10
+478,dream around,Teja,teja26@protonmail.com,76,Delhi,Family,iPad,Mac,2.7,No,Hindi,Dr. Jason Schneider MD,Hip-Hop,2024-09-01,Playlist_295,172,Medium,15,1,
+479,air toward,Amelia,amelia47@gmail.com,75,Punjab,Free,Laptop,Mac,2.1,Yes,Hindi,Vickie Brown,Folk,2024-01-03,Playlist_37,248,Medium,2,3,12
+480,scientist policy,Navjot,navjot85@outlook.com,68,Andhra Pradesh,Free,iPad,iOS,4.4,No,Hindi,Casey Malone,Folk,2024-11-03,Playlist_21,144,High,10,1,1
+481,mother white,Ramya,ramya40@yahoo.com,26,Punjab,Free,iPad,iOS,1.6,Yes,Tamil,Brandi Davis,Hip-Hop,2023-08-17,Playlist_60,312,Very High,,10,20
+482,million light,Lakshmi,lakshmi53@protonmail.com,19,Delhi,Family,Laptop,Web,4.2,Yes,Kannada,Holly Marsh,Hip-Hop,2023-12-10,Playlist_55,194,Medium,2,5,4
+483,military some,Sophia,sophia90@protonmail.com,53,Punjab,Family,Mobile,Android,3.4,Yes,Telugu,Thomas Turner,Hip-Hop,2025-06-09,Playlist_186,72,Low,20,1,4
+484,travel point,Deepak,deepak17@protonmail.com,37,Karnataka,Free,Mobile,Android,3.9,No,Hindi,Kelly Conner,Pop,2024-01-18,Playlist_193,353,High,,9,20
+485,spring forward,Sai,sai72@gmail.com,20,Punjab,Premium,Mobile,Android,3.1,No,Hindi,Anthony Richards,Folk,2024-06-09,Playlist_267,143,High,,5,19
+486,give again,Oliver,oliver14@yahoo.com,66,Delhi,Premium,Laptop,Android,3,Yes,Punjabi,Jesse Hopkins,EDM,2024-07-25,Playlist_96,327,High,10,2,2
+487,station environment,Anusha,anusha20@hotmail.com,68,Punjab,Family,iPad,iOS,1.7,Yes,Kannada,Rebecca Andrade,Rock,2024-11-21,Playlist_217,249,High,15,0,15
+488,also low,Harman,harman69@yahoo.com,63,Delhi,Premium,Laptop,iOS,2.9,Yes,Tamil,Jessica Green,Rock,2025-03-21,Playlist_163,242,Medium,15,1,1
+489,finally these,Sai,sai21@gmail.com,26,Punjab,Free,iPad,Mac,2.1,Yes,Kannada,Rachel Jackson,Classical,2024-07-04,Playlist_61,344,Low,15,1,16
+490,garden people,Liam,liam26@protonmail.com,24,Punjab,Family,Mobile,Android,4.6,Yes,English,David Hudson,EDM,2024-12-18,Playlist_133,360,Very High,0,9,8
+491,indicate into,Karthik,karthik66@yahoo.com,64,Punjab,Family,Mobile,iOS,1.3,No,Kannada,Robert Perry,EDM,2024-08-31,Playlist_69,267,High,10,2,10
+492,also campaign,Jaspreet,jaspreet20@email.com,53,Delhi,Premium,Mobile,Android,4.1,Yes,Tamil,Jessica Mcfarland,Classical,2025-07-12,Playlist_239,90,Low,1,2,7
+493,camera animal,Olivia,olivia39@email.com,22,Andhra Pradesh,Family,iPad,Web,3.2,Yes,Punjabi,Tracey Rose,EDM,2023-09-18,Playlist_125,384,Very High,5,2,18
+494,minute summer,Kavya,kavya48@gmail.com,76,Tamilnadu,Family,Laptop,Android,2.9,No,Punjabi,Mark Conner Jr.,Folk,2025-03-23,Playlist_297,107,Medium,10,2,19
+495,explain can,Ramya,ramya60@outlook.com,15,Delhi,Family,iPad,iOS,1.1,No,Telugu,Mr. Erik Taylor,EDM,2023-11-17,Playlist_275,233,Medium,10,1,9
+496,more accept,Jaya,jaya54@email.com,72,Karnataka,Family,Laptop,Web,4.9,No,English,Jenna Potts,Hip-Hop,2025-04-28,Playlist_43,211,Very High,5,1,13
+497,box trip,Kavya,kavya31@hotmail.com,48,Delhi,Free,Mobile,Web,3.6,No,English,Levi Shelton,Pop,2024-02-17,Playlist_46,353,Medium,,8,10
+498,together wall,Sukhdev,sukhdev14@yahoo.com,77,Delhi,Premium,iPad,Mac,1.4,Yes,Telugu,Carrie Kane,Classical,2024-11-01,Playlist_207,179,High,5,3,12
+499,bank health,Noah,noah91@outlook.com,20,Delhi,Family,iPad,iOS,2.9,No,Hindi,James Leon,Rock,2023-09-21,Playlist_62,352,Low,5,2,15
+500,hold heart,Rahul,rahul82@yahoo.com,23,Punjab,Family,Laptop,Android,4.6,Yes,Punjabi,Kimberly Hamilton,Classical,2024-04-28,Playlist_50,177,Low,0,9,4

@@ -1,0 +1,313 @@
+user_id,registration_date,favorite_team,contests_joined,contests_won,total_winnings,avg_team_score,win_rate,performance_score,device_type,region,last_active_date,preferred_match_time,notification_status,referral_count,session_duration,app_rating,payment_method,subscription_status,last_login_time
+1001,2025-01-12,Delhi Capitals,7,6,4480.1,53.59,85.71,72.59,,Maharashtra,2025-05-30,Afternoon,Off,9,18.43,,,Premium,2025-05-30 20:54:00
+1002,2024-01-17,Royal Challengers Bangalore,11,10,928.55,58.3,90.91,49.36,Tablet,Maharashtra,,Afternoon,Off,,16.01,2.6,,Premium,2024-02-19 3:45:00
+1003,2024-09-23,Chennai Super Kings,47,45,2811.48,20.64,95.74,4.89,Mobile,Tamil Nadu,2024-12-13,Afternoon,On,3,14.01,1.4,Credit Card,Premium,2024-12-13 14:24:00
+1004,2024-08-03,Delhi Capitals,30,5,1469.02,54.95,16.67,18.2,Mobile,Delhi,2024-11-09,Afternoon,Off,5,16.45,,,Free,2024-11-09 1:47:00
+1005,2024-03-17,Mumbai Indians,18,2,346.5,52.4,11.11,27.76,Mobile,Karnataka,2024-03-31,Afternoon,Off,1,11.63,,,,
+1006,2024-04-13,Chennai Super Kings,44,42,3789.62,47.42,95.45,11.38,Desktop,Delhi,2024-06-04,Afternoon,Off,8,0,,,Free,2024-06-04 14:38:00
+1007,2024-10-23,Chennai Super Kings,36,35,214.77,26.13,97.22,7.12,Desktop,Karnataka,2025-01-26,Evening,Off,3,8.29,,UPI,Premium,2025-01-26 6:44:00
+1008,2024-02-06,Royal Challengers Bangalore,35,35,2185.71,44.2,100,12.88,Desktop,West Bengal,2024-06-11,Evening,On,8,14.4,1.1,UPI,Premium,2024-06-11 18:07:00
+1009,2024-04-29,Royal Challengers Bangalore,8,8,4155.75,0,100,45.63,Tablet,Maharashtra,2024-11-13,Evening,Off,4,11.75,,,Free,2024-11-13 21:03:00
+1010,2024-11-03,Mumbai Indians,12,0,0,59.41,0,0,Tablet,West Bengal,2025-02-25,Evening,On,7,10.83,,Credit Card,Free,2025-02-25 22:39:00
+1011,2024-05-02,Mumbai Indians,2,0,0,38.57,0,143.17,Mobile,West Bengal,2024-07-02,Afternoon,On,8,15.67,1,,,2024-07-02 5:24:00
+1012,2024-06-16,Mumbai Indians,19,6,69.36,46.39,31.58,23.23,Mobile,Delhi,2024-11-21,Evening,Off,2,10.58,4.3,,,2024-11-21 12:28:00
+1013,2024-03-28,Mumbai Indians,3,2,3459.36,42.2,66.67,114.15,Mobile,Telangana,,Afternoon,,10,15.24,3,,Premium,2024-04-27 6:34:00
+1014,2025-01-08,Kolkata Knight Riders,39,15,4029.89,54.55,38.46,14.64,Mobile,West Bengal,2025-05-27,Afternoon,Off,9,6.06,3.7,UPI,,2025-05-27 4:50:00
+1015,2024-11-02,Kolkata Knight Riders,16,13,1873.08,25.87,81.25,16.32,Desktop,Maharashtra,2024-11-05,Evening,On,3,8.84,2.9,Credit Card,Free,2024-11-05 0:39:00
+1016,2024-11-02,Sunrisers Hyderabad,18,4,3225.73,43.2,22.22,24.43,Tablet,Delhi,2025-02-13,Afternoon,On,4,8.12,1.7,,,2025-02-13 15:36:00
+1017,2024-09-05,Delhi Capitals,19,2,3938.69,0,10.53,22.38,Tablet,,2025-01-14,Afternoon,On,1,18.67,1.9,,,2025-01-14 15:19:00
+1018,2024-02-10,Chennai Super Kings,20,4,1768.8,29.15,20,14.72,Mobile,Delhi,2024-06-10,Afternoon,On,,12.57,,,,2024-06-10 11:10:00
+1019,2024-07-08,Delhi Capitals,9,3,760.99,42.5,0,43.26,Mobile,Maharashtra,2024-12-17,Afternoon,Off,7,16.46,3.4,,Premium,2024-12-17 5:45:00
+1020,2024-06-07,Sunrisers Hyderabad,12,12,3447.88,49.37,100,40.63,Desktop,Telangana,,Afternoon,On,7,8.78,4.1,Credit Card,Premium,2024-12-04 7:22:00
+1021,2024-02-29,Delhi Capitals,14,8,830.22,28.83,57.14,19.77,Tablet,West Bengal,2024-04-23,,On,9,9.54,2.9,,Premium,
+1022,2024-05-05,Sunrisers Hyderabad,27,17,838.67,32.6,62.96,11.94,Mobile,Karnataka,2024-05-30,Evening,Off,7,9.12,2,,,2024-05-30 15:40:00
+1023,2024-03-13,Delhi Capitals,35,5,1867,56.7,14.29,16.27,Desktop,Telangana,2024-04-28,Afternoon,Off,1,12.34,,,Premium,2024-04-28 6:58:00
+1024,2024-05-29,Sunrisers Hyderabad,23,16,4539.62,30.93,69.57,14.78,Desktop,West Bengal,2024-08-06,Afternoon,On,2,9.06,4.6,Credit Card,Premium,2024-08-06 11:23:00
+1025,2024-07-28,Kolkata Knight Riders,3,0,0,52.96,0,135.5,Mobile,West Bengal,2025-01-30,Evening,Off,8,0,5,,,2025-01-30 9:01:00
+1026,2024-07-25,Chennai Super Kings,13,7,3653.97,47.87,53.85,36.8,Desktop,Delhi,2025-01-26,Afternoon,On,4,14.38,4.6,Credit Card,,2025-01-26 9:43:00
+1027,2024-05-14,Royal Challengers Bangalore,35,33,4015.73,0,94.29,10.62,Mobile,Maharashtra,2024-10-04,Evening,Off,3,10.54,2,,,2024-10-04 6:47:00
+1028,2024-09-28,Kolkata Knight Riders,25,22,1948.11,30.26,88,12.39,Mobile,West Bengal,2025-01-19,Evening,Off,8,10.96,4.2,Credit Card,,2025-01-19 7:16:00
+1029,2024-03-27,Chennai Super Kings,8,5,1923.26,58.97,62.5,67.66,Desktop,Karnataka,2024-04-15,Evening,On,8,11.01,3.8,,Premium,
+1030,2024-08-14,Delhi Capitals,8,6,1750.07,29.84,75,35.1,Desktop,Karnataka,2024-08-15,Evening,On,2,0,,UPI,Free,2024-08-15 22:18:00
+1031,2024-02-23,Kolkata Knight Riders,44,28,3619.86,0,63.64,7.91,Desktop,Maharashtra,2024-05-07,Evening,Off,7,6.01,4.7,Credit Card,,2024-05-07 7:44:00
+1032,2024-08-16,Mumbai Indians,5,2,1923.71,40.62,40,70.91,Tablet,Karnataka,2024-09-25,Afternoon,Off,7,6.29,,Credit Card,,2024-09-25 11:50:00
+1033,2024-04-03,Delhi Capitals,36,20,4323.95,21.9,55.56,0,Desktop,Delhi,2024-04-07,Afternoon,Off,7,19.92,2.3,,Free,2024-04-07 16:27:00
+1034,2024-09-21,Delhi Capitals,9,7,3633.95,53.36,77.78,56.99,Desktop,Maharashtra,2025-01-09,Evening,Off,0,16.71,1.5,Credit Card,Premium,2025-01-09 11:19:00
+1035,2024-11-01,Sunrisers Hyderabad,31,14,904.81,22.93,45.16,7.45,Desktop,Maharashtra,2024-11-17,Evening,On,3,16.76,,Credit Card,Free,2024-11-17 7:46:00
+1036,2024-05-25,Kolkata Knight Riders,1,0,0,23.56,0,139.45,Mobile,Delhi,2024-11-28,Evening,Off,,9.96,,UPI,,2024-11-28 4:56:00
+1037,2024-12-01,Delhi Capitals,42,35,4838,25.02,83.33,6.94,Desktop,Telangana,2025-04-05,Afternoon,On,7,9.77,2.6,UPI,Premium,2025-04-05 19:17:00
+1038,2024-08-17,Chennai Super Kings,6,5,4960.04,32.66,83.33,53.74,Desktop,Tamil Nadu,2024-09-13,Afternoon,On,7,11.3,,UPI,Free,2024-09-13 13:30:00
+1039,2025-02-04,Kolkata Knight Riders,46,0,0,22.04,0,5.15,Desktop,West Bengal,2025-07-03,Evening,On,10,16.35,5,Credit Card,Free,2025-07-03 17:26:00
+1040,2024-02-25,Delhi Capitals,43,6,2506.22,45.67,13.95,10.95,Tablet,Telangana,2024-06-26,Afternoon,On,0,8.45,3.8,,,2024-06-26 11:39:00
+1041,2024-01-30,Kolkata Knight Riders,36,23,3761.61,46.53,63.89,13.59,Tablet,Tamil Nadu,2024-08-11,Afternoon,On,10,13.05,,,,2024-08-11 8:56:00
+1042,2024-05-28,Royal Challengers Bangalore,13,7,212.16,30.93,53.85,22.24,Tablet,Telangana,2024-09-20,Evening,On,3,8.21,2.3,UPI,Premium,
+1043,2025-02-03,Kolkata Knight Riders,40,9,1883.41,32.68,22.5,8.43,Desktop,Karnataka,2025-07-18,Evening,On,9,18.91,4,,Free,2025-07-18 13:27:00
+1044,2024-03-07,Chennai Super Kings,50,42,1794.25,55,84,11.14,Tablet,Delhi,2024-05-25,Evening,Off,8,16.93,2.8,,,2024-05-25 3:09:00
+1045,2024-10-24,Chennai Super Kings,20,16,2752.02,38.81,0,19.79,Mobile,Tamil Nadu,2025-03-01,Evening,On,7,13.03,4.4,UPI,Free,2025-03-01 13:32:00
+1046,2024-02-21,Kolkata Knight Riders,10,7,1470.63,28.62,70,27.36,Tablet,Karnataka,2024-07-27,Evening,On,9,19.4,2,UPI,Premium,2024-07-27 9:27:00
+1047,2024-10-12,Delhi Capitals,29,24,2025.01,24.35,82.76,8.79,Tablet,West Bengal,2025-03-21,Afternoon,Off,2,19.83,1.9,,Premium,2025-03-21 6:30:00
+1048,2024-05-16,Royal Challengers Bangalore,17,3,1726.23,59.16,17.65,33.83,Desktop,Karnataka,2024-11-10,Evening,Off,2,11.33,3.9,,Premium,
+1049,2024-10-13,Mumbai Indians,38,12,1126.88,30.01,31.58,7.98,Mobile,Maharashtra,2024-11-18,Evening,On,7,11.91,2.7,,Premium,2024-11-18 8:31:00
+1050,2024-07-08,Kolkata Knight Riders,47,7,1243.48,41.14,14.89,8.83,Mobile,Delhi,2024-10-24,Afternoon,On,1,7.71,4.1,,,2024-10-24 6:06:00
+1051,2024-04-11,Mumbai Indians,4,4,2759.72,50.15,100,105.82,Mobile,Tamil Nadu,2024-07-14,Afternoon,On,4,6.79,,,Premium,2024-07-14 7:20:00
+1052,2024-01-08,Delhi Capitals,37,35,4350.37,0,94.59,13.45,Desktop,West Bengal,2024-07-09,Afternoon,On,0,11.4,3,Credit Card,,2024-07-09 22:16:00
+1053,2024-09-09,Mumbai Indians,5,5,2014.44,32.49,100,57.51,Mobile,West Bengal,2024-11-30,Evening,On,4,16.26,,Credit Card,,2024-11-30 14:43:00
+1054,2024-01-22,Delhi Capitals,45,7,2224.34,57.51,15.56,12.99,Mobile,Delhi,2024-02-07,Afternoon,On,0,13.33,,,Free,2024-02-07 19:49:00
+1055,2024-09-01,Royal Challengers Bangalore,5,3,1721.98,28.67,60,50.65,Mobile,Maharashtra,2024-12-17,Afternoon,On,3,12.35,1.6,,,2024-12-17 21:57:00
+1056,2024-02-06,Mumbai Indians,13,1,3279.09,40.25,7.69,31.09,Mobile,Karnataka,2024-05-30,Evening,On,10,17.49,3.2,,Premium,2024-05-30 17:31:00
+1057,2024-12-25,Mumbai Indians,46,26,3009.63,38.79,56.52,8.89,Desktop,Tamil Nadu,2025-01-12,Evening,Off,10,18.14,4.9,,,2025-01-12 20:22:00
+1058,2024-04-20,Kolkata Knight Riders,3,3,4969.9,36.6,100,103.92,Desktop,Telangana,2024-10-23,Evening,On,0,18.49,,Credit Card,Free,2024-10-23 8:18:00
+1059,2024-04-26,Royal Challengers Bangalore,34,0,0,57.88,0,16.9,Desktop,Telangana,2024-05-25,Evening,On,8,8.02,,UPI,Premium,2024-05-25 18:03:00
+1060,2024-11-23,Chennai Super Kings,19,13,810.54,55.36,68.42,28.09,Tablet,West Bengal,2025-03-06,Afternoon,On,7,10.05,1.7,,Premium,2025-03-06 15:49:00
+1061,2024-01-25,Chennai Super Kings,21,4,1061.19,39.51,19.05,18.44,Mobile,Maharashtra,2024-03-28,Evening,Off,6,17.61,2.6,,Premium,2024-03-28 15:12:00
+1062,2024-08-30,Royal Challengers Bangalore,25,6,3817.36,37.35,24,15.83,Desktop,Tamil Nadu,2024-11-02,Afternoon,Off,4,9.89,2.8,,Premium,2024-11-02 12:55:00
+1063,2024-10-14,Chennai Super Kings,15,8,216.08,53.47,53.33,33.55,Tablet,Delhi,2025-03-27,Afternoon,On,1,16.8,1.1,,Premium,2025-03-27 21:47:00
+1064,2024-06-12,Delhi Capitals,27,11,4155.96,0,40.74,17.07,Mobile,Tamil Nadu,2024-10-20,Afternoon,Off,4,13.1,3.9,Credit Card,Premium,2024-10-20 11:45:00
+1065,2024-02-16,Royal Challengers Bangalore,29,24,3021.83,42.15,82.76,15.06,Tablet,Karnataka,2024-02-26,Afternoon,Off,9,0,3.7,,Free,2024-02-26 20:12:00
+1066,2024-11-18,Royal Challengers Bangalore,40,10,527.12,47.25,25,11.65,Tablet,Karnataka,2024-12-29,Evening,On,1,5.55,4.9,UPI,Premium,2024-12-29 21:18:00
+1067,2024-10-06,Chennai Super Kings,27,25,167.68,58.77,92.59,21.05,Mobile,West Bengal,2024-11-17,Evening,,2,20,3.7,,Free,2024-11-17 22:18:00
+1068,2024-04-29,Kolkata Knight Riders,7,3,2356.53,0,42.86,0,Mobile,Tamil Nadu,2024-06-28,Afternoon,Off,1,15.41,2.7,Credit Card,,2024-06-28 23:26:00
+1069,2025-01-27,Chennai Super Kings,8,4,1619.05,25.15,50,29.74,Desktop,Maharashtra,2025-06-18,Afternoon,Off,5,18.99,,,Premium,2025-06-18 18:05:00
+1070,2024-11-04,Royal Challengers Bangalore,48,9,1071.54,32.99,18.75,6.95,Mobile,Karnataka,,Evening,On,0,9.81,1.7,Credit Card,Free,2025-04-23 22:49:00
+1071,2024-10-14,Sunrisers Hyderabad,13,12,743.69,29.92,92.31,21.9,Mobile,Delhi,2025-01-08,Evening,Off,8,17.02,2.2,,Free,2025-01-08 14:10:00
+1072,2024-03-09,Chennai Super Kings,48,6,3884.85,43.05,12.5,9.58,Tablet,West Bengal,2024-06-01,Afternoon,On,7,9.44,2.5,,Premium,2024-06-01 22:21:00
+1073,2024-04-21,Kolkata Knight Riders,5,1,1027.57,45.48,20,77.51,Desktop,Tamil Nadu,2024-07-16,Afternoon,Off,0,18.28,4.8,UPI,Premium,2024-07-16 6:15:00
+1074,2024-12-29,Chennai Super Kings,16,2,1149.33,56.77,12.5,34.07,Mobile,Karnataka,2025-04-16,Afternoon,On,8,18.19,2.9,Credit Card,,2025-04-16 10:25:00
+1075,2024-03-15,Mumbai Indians,36,17,1561.27,34.84,47.22,9.84,,Delhi,2024-06-03,Afternoon,Off,1,12.14,3,,Premium,2024-06-03 22:47:00
+1076,2024-05-18,Royal Challengers Bangalore,9,4,4593.67,38.84,44.44,43.43,Mobile,West Bengal,2024-09-08,Evening,Off,7,0,2.4,UPI,,
+1077,2024-11-13,Chennai Super Kings,6,4,4891.37,35.49,66.67,57.69,Desktop,,2024-11-29,Afternoon,On,3,19.28,4.6,Credit Card,,2024-11-29 6:23:00
+1078,2025-02-03,Kolkata Knight Riders,0,0,0,0,0,0,Tablet,Delhi,,Afternoon,Off,6,0,1.2,,,
+1079,2024-05-16,Sunrisers Hyderabad,49,34,1793.15,46.57,0,9.67,Mobile,Delhi,2024-08-12,Evening,Off,2,10.35,3.1,Credit Card,Premium,2024-08-12 13:52:00
+1080,2024-04-08,Delhi Capitals,29,0,0,49.33,0,16.86,Mobile,West Bengal,2024-05-21,Afternoon,On,4,11.2,3.2,,,2024-05-21 20:28:00
+1081,2024-12-14,Delhi Capitals,13,4,4923.56,47.38,30.77,37.36,Tablet,Telangana,2025-05-16,Afternoon,On,9,14.29,2,UPI,,2025-05-16 9:37:00
+1082,2024-07-22,Kolkata Knight Riders,31,6,69.75,42.83,19.35,13.41,Mobile,Karnataka,2024-08-03,Evening,Off,1,5.59,,,,2024-08-03 9:29:00
+1083,2024-10-25,Delhi Capitals,5,4,2262.61,21.06,80,38.87,Mobile,Maharashtra,2024-12-14,Evening,Off,4,14.16,2.2,,Free,2024-12-14 22:55:00
+1084,2024-05-28,Royal Challengers Bangalore,23,8,4748.82,21.28,34.78,10.85,Mobile,Tamil Nadu,,Afternoon,Off,9,6.18,,Credit Card,Premium,2024-06-23 8:02:00
+1085,2024-03-07,Mumbai Indians,1,1,3698.67,44.16,100,239.29,Desktop,Maharashtra,2024-04-29,Afternoon,Off,0,11.27,4.2,,,
+1086,2024-03-26,Sunrisers Hyderabad,9,7,2605.37,28.17,77.78,30.78,,Tamil Nadu,2024-09-26,Afternoon,Off,10,11.45,,,,2024-09-26 21:42:00
+1087,2024-10-08,Delhi Capitals,24,3,2986.33,0,12.5,21.19,Tablet,Maharashtra,2024-11-12,Afternoon,Off,1,19.29,3.6,,,2024-11-12 9:58:00
+1088,2024-07-07,Chennai Super Kings,4,0,0,28.79,0,58.23,Tablet,West Bengal,2025-01-22,Evening,,4,18.1,3.6,UPI,Free,2025-01-22 3:33:00
+1089,2025-01-15,Sunrisers Hyderabad,30,24,1308.85,48.37,80,16.03,Desktop,,2025-06-25,Evening,Off,6,6.25,2.1,,Free,2025-06-25 9:49:00
+1090,2024-02-20,Sunrisers Hyderabad,35,3,4152.05,37.95,8.57,11.7,Mobile,Telangana,2024-08-24,Evening,On,2,12.47,,,Premium,2024-08-24 18:26:00
+1091,2024-03-30,Delhi Capitals,46,39,3745.56,45.55,84.78,10.49,Desktop,Maharashtra,2024-04-04,Evening,Off,10,8.59,,,,2024-04-04 16:57:00
+1092,2024-07-29,Mumbai Indians,16,1,1196.1,35.69,6.25,21.7,Desktop,Delhi,2024-11-24,Evening,,5,12.68,,Credit Card,Premium,2024-11-24 0:03:00
+1093,2024-11-19,Sunrisers Hyderabad,26,0,0,43.23,0,16.55,Desktop,Delhi,2025-02-18,Evening,Off,7,16.9,,,Free,2025-02-18 3:39:00
+1094,2024-10-11,Mumbai Indians,32,29,4605.88,45.69,90.62,15.24,Tablet,Delhi,2025-02-10,Afternoon,,7,7.83,2.2,UPI,,2025-02-10 9:23:00
+1095,2024-06-17,Delhi Capitals,48,14,3205.35,47.35,29.17,10.32,Mobile,West Bengal,2024-07-21,Evening,Off,1,5.89,1.5,,Free,2024-07-21 1:27:00
+1096,2025-01-22,Mumbai Indians,12,5,3365.6,44.15,41.67,36.55,Mobile,Karnataka,2025-07-08,Afternoon,On,5,16.43,,UPI,,2025-07-08 9:18:00
+1097,2024-08-02,Sunrisers Hyderabad,33,11,117.99,53.11,33.33,15.66,Mobile,Karnataka,2024-11-08,Afternoon,On,6,9.77,3.2,,,2024-11-08 16:13:00
+1098,2024-03-04,Mumbai Indians,18,9,4041.53,51.31,50,29.13,Mobile,Telangana,2024-08-06,Afternoon,Off,5,11.99,1.1,,Free,2024-08-06 19:00:00
+1099,2024-02-22,Delhi Capitals,25,8,4119.61,47.23,32,0,Mobile,Karnataka,2024-03-04,Evening,On,10,14.7,1.5,,,2024-03-04 12:42:00
+1100,2024-03-19,Royal Challengers Bangalore,8,5,3670.17,28.36,62.5,35.59,Mobile,Delhi,2024-06-22,Evening,Off,9,5.38,4.3,Credit Card,Free,2024-06-22 4:01:00
+1101,2024-12-04,Royal Challengers Bangalore,31,12,2490.12,54.06,38.71,17.67,Desktop,West Bengal,2025-05-20,Evening,Off,4,19.13,,UPI,,2025-05-20 4:02:00
+1102,2024-11-19,Royal Challengers Bangalore,2,2,1615.07,33.58,100,117.32,Tablet,West Bengal,2025-05-06,Evening,Off,2,9.29,4.1,,Premium,2025-05-06 15:06:00
+1103,2024-03-09,Royal Challengers Bangalore,43,12,1796.71,22.05,27.91,5.42,Mobile,,2024-09-19,Afternoon,Off,1,14.8,,,,2024-09-19 1:12:00
+1104,2024-03-28,Chennai Super Kings,44,31,2458.66,57.94,70.45,13.42,Mobile,Maharashtra,2024-05-27,Afternoon,On,5,7.01,1.1,,Free,2024-05-27 19:37:00
+1105,2024-10-29,Kolkata Knight Riders,26,4,3154.57,40.54,15.38,16.18,Desktop,Karnataka,2025-04-04,Afternoon,On,4,9.68,2.1,,Free,2025-04-04 6:59:00
+1106,2024-08-13,Mumbai Indians,41,5,4739.9,32.66,12.2,8.9,Mobile,Maharashtra,2024-11-28,Evening,Off,8,14.45,4.5,,Free,2024-11-28 17:22:00
+1107,2024-08-05,Kolkata Knight Riders,39,14,4557.38,25.45,35.9,7.5,Tablet,Maharashtra,2024-09-20,Evening,On,6,5.6,3.2,,,2024-09-20 21:06:00
+1108,2024-07-09,Kolkata Knight Riders,15,11,1417.35,45.43,73.33,29.28,Tablet,Karnataka,2024-09-20,Afternoon,On,1,18.8,3.4,UPI,Free,2024-09-20 16:19:00
+1109,2024-12-31,Royal Challengers Bangalore,37,14,2161.87,59.79,37.84,16.3,Tablet,Karnataka,2025-03-15,Afternoon,Off,10,13.05,,,Free,2025-03-15 21:37:00
+1110,2024-01-13,Sunrisers Hyderabad,34,0,0,58.5,0,17.48,Desktop,Telangana,2024-06-22,Afternoon,Off,1,7.41,1.2,,Free,2024-06-22 8:14:00
+1111,2025-01-18,Sunrisers Hyderabad,39,12,2176.62,20.18,30.77,5.59,Desktop,Tamil Nadu,2025-06-08,Evening,,2,13.14,,,,2025-06-08 21:17:00
+1112,2024-11-29,Sunrisers Hyderabad,32,13,1480.38,43.1,40.62,13.51,Desktop,Tamil Nadu,2025-04-09,Evening,Off,6,14.91,,,Free,2025-04-09 4:47:00
+1113,2024-06-09,Kolkata Knight Riders,18,0,0,38.53,0,21.85,Tablet,Tamil Nadu,2024-06-18,Afternoon,On,0,5.78,,,Premium,2024-06-18 12:11:00
+1114,2024-06-25,Kolkata Knight Riders,24,21,4889.68,25.8,87.5,12.28,Desktop,West Bengal,2024-07-10,Evening,On,9,6.92,2.1,,Free,2024-07-10 13:12:00
+1115,2024-08-13,Kolkata Knight Riders,30,2,1880,41.4,6.67,13.96,,West Bengal,2024-09-01,Afternoon,On,9,7.15,3.6,,Premium,2024-09-01 18:33:00
+1116,2024-04-23,Kolkata Knight Riders,14,12,2476.99,46.95,85.71,32.95,Desktop,Karnataka,2024-09-17,Afternoon,,1,0,,UPI,Free,2024-09-17 15:54:00
+1117,2024-03-17,Sunrisers Hyderabad,24,4,830.3,51.81,16.67,21.06,Mobile,Delhi,2024-08-05,Afternoon,Off,,19.97,2.1,,Premium,2024-08-05 12:01:00
+1118,2024-10-11,Delhi Capitals,1,1,3984.17,21.59,100,127.87,Tablet,Maharashtra,2024-10-31,Afternoon,Off,2,16.47,,UPI,,2024-10-31 12:54:00
+1119,2024-09-09,Royal Challengers Bangalore,48,27,1897.04,51.63,0,10.92,Desktop,Delhi,2025-02-18,Evening,On,,7.92,1.1,Credit Card,,2025-02-18 4:48:00
+1120,2024-12-05,Kolkata Knight Riders,19,12,2701.4,59.83,63.16,31.27,,Tamil Nadu,2025-03-12,Evening,On,0,17.35,2.5,,Premium,2025-03-12 19:04:00
+1121,2024-07-07,Sunrisers Hyderabad,14,14,588.16,25.45,100,17.36,Desktop,Maharashtra,2024-08-13,Afternoon,On,7,19.75,3.6,,Premium,2024-08-13 19:03:00
+1122,2024-12-29,Sunrisers Hyderabad,30,19,1637.67,57.95,63.33,19.22,Desktop,Telangana,2025-02-03,Evening,On,0,19.82,3,,Free,2025-02-03 23:35:00
+1123,2024-09-22,Chennai Super Kings,27,13,3340.67,31.08,48.15,12.29,Mobile,Karnataka,,,On,0,15.28,,,,2024-11-09 17:14:00
+1124,2024-06-29,Kolkata Knight Riders,3,2,4289.42,59.27,66.67,158.9,Tablet,Maharashtra,2024-09-11,Afternoon,Off,5,14.98,,,Free,2024-09-11 19:20:00
+1125,2024-05-26,Chennai Super Kings,27,21,4939.71,47.68,77.78,18.79,Mobile,,2024-09-13,Evening,On,1,7.78,,Credit Card,,2024-09-13 0:04:00
+1126,2024-05-05,Kolkata Knight Riders,19,9,2452.19,28.54,47.37,15.5,Mobile,West Bengal,2024-06-09,Afternoon,Off,1,20,2.2,,,2024-06-09 7:17:00
+1127,2025-01-13,Kolkata Knight Riders,25,19,1604.19,27.34,76,11.13,Mobile,Maharashtra,2025-04-14,Evening,On,9,8.39,,,Premium,2025-04-14 15:24:00
+1128,2024-12-10,Delhi Capitals,24,11,2513.59,31.36,45.83,13.55,Desktop,Delhi,2025-01-21,Evening,Off,,16.2,,,Premium,2025-01-21 8:58:00
+1129,2024-06-27,Mumbai Indians,33,16,841.29,56.61,48.48,16.9,Mobile,Karnataka,2024-11-08,Evening,On,1,15.49,3.9,UPI,Premium,2024-11-08 14:29:00
+1130,2024-01-20,Chennai Super Kings,15,4,3235.89,45.58,26.67,30.51,Desktop,Karnataka,2024-07-08,Afternoon,Off,3,13.61,4.7,,Free,2024-07-08 12:11:00
+1131,2025-01-25,Sunrisers Hyderabad,24,9,2050.07,58.61,37.5,24.26,Tablet,West Bengal,2025-04-17,Evening,On,6,17.28,1.2,Credit Card,,2025-04-17 8:17:00
+1132,2024-10-19,Kolkata Knight Riders,21,8,1042.61,53.93,38.1,24.99,Tablet,Karnataka,2024-12-28,,Off,,19.19,3.2,Credit Card,,2024-12-28 16:47:00
+1133,2024-09-23,Chennai Super Kings,8,3,414.32,33.23,37.5,37.38,Tablet,Tamil Nadu,2024-10-28,Afternoon,On,6,6.54,2.7,,Free,2024-10-28 18:09:00
+1134,2024-11-20,Royal Challengers Bangalore,0,0,0,0,0,0,Desktop,Karnataka,,Evening,On,5,0,1.9,,,
+1135,2024-10-17,Chennai Super Kings,43,15,2508.4,57.87,34.88,13.72,Desktop,Maharashtra,2025-03-09,Evening,Off,9,10.25,,,Free,2025-03-09 20:31:00
+1136,2024-05-07,Delhi Capitals,12,12,2149.96,46.98,100,37.79,Desktop,Delhi,2024-08-18,Afternoon,Off,8,6.49,,,Premium,2024-08-18 16:29:00
+1137,2024-11-09,Sunrisers Hyderabad,29,1,3592.1,27.25,3.45,10.28,Desktop,Maharashtra,2024-12-07,Evening,On,5,15.84,,UPI,,2024-12-07 19:14:00
+1138,2025-01-20,Sunrisers Hyderabad,45,45,2611.72,24.91,100,5.98,Desktop,Tamil Nadu,2025-05-01,Afternoon,Off,4,11.93,2,UPI,Premium,2025-05-01 6:07:00
+1139,2024-12-30,Sunrisers Hyderabad,3,1,2770.32,58.57,33.33,153.35,Tablet,,2025-03-19,Evening,On,9,13.04,2.7,,Premium,2025-03-19 22:51:00
+1140,2024-10-24,Delhi Capitals,34,34,891.46,59.9,0,17.37,Desktop,Delhi,2024-11-29,Afternoon,On,10,15.69,1.5,Credit Card,,2024-11-29 10:39:00
+1141,2024-06-01,Kolkata Knight Riders,41,26,4173.33,24.13,63.41,6.74,Tablet,Telangana,2024-09-02,Afternoon,On,10,17.86,,,Free,2024-09-02 1:47:00
+1142,2024-09-25,Delhi Capitals,44,9,1465.86,34.98,20.45,8.1,Desktop,Tamil Nadu,2024-11-18,Evening,Off,6,11.53,3.7,,,2024-11-18 19:57:00
+1143,2025-01-20,Delhi Capitals,47,22,55,25.28,46.81,0,Desktop,Delhi,2025-08-05,Afternoon,On,9,13.54,3.4,Credit Card,Premium,2025-08-05 0:24:00
+1144,2024-11-14,Royal Challengers Bangalore,40,39,3202.77,56.94,97.5,14.67,Tablet,Telangana,2025-01-10,Evening,On,8,10.56,,Credit Card,,2025-01-10 12:13:00
+1145,2024-03-27,Mumbai Indians,13,11,1692.16,22.75,84.62,17.46,Desktop,Tamil Nadu,2024-07-04,Afternoon,On,3,16.67,3.6,,Free,2024-07-04 17:25:00
+1146,2024-12-28,Chennai Super Kings,35,16,190.96,26.2,45.71,7.33,Desktop,Tamil Nadu,2024-12-31,Evening,On,3,19.29,2.7,UPI,Premium,2024-12-31 21:16:00
+1147,2024-03-11,Sunrisers Hyderabad,25,17,1333.26,39.02,68,15.52,Desktop,Karnataka,2024-07-26,Evening,,1,13.89,3.6,,Free,2024-07-26 7:14:00
+1148,2024-10-09,Mumbai Indians,11,0,0,54.48,0,47.12,Mobile,Delhi,2025-02-16,Afternoon,Off,2,18.85,4.7,,,2025-02-16 4:36:00
+1149,2024-10-19,Kolkata Knight Riders,19,12,2590.58,54.96,63.16,28.78,Mobile,Telangana,2024-11-24,Afternoon,Off,6,13.51,3.2,,Premium,2024-11-24 2:45:00
+1150,2024-01-17,Sunrisers Hyderabad,11,10,24.89,20.11,90.91,16.78,Tablet,Maharashtra,2024-04-03,Evening,Off,6,5.83,2,UPI,Free,
+1151,2024-05-21,Delhi Capitals,15,6,4339.9,24.79,40,18.21,Tablet,,2024-08-30,Afternoon,Off,6,9.04,,UPI,,2024-08-30 3:59:00
+1152,2024-08-21,Sunrisers Hyderabad,45,5,1401.39,40.15,11.11,9.03,Desktop,Maharashtra,2024-11-07,Afternoon,Off,0,16.88,,,Free,2024-11-07 9:21:00
+1153,2024-05-29,Mumbai Indians,37,25,4087.38,50.24,67.57,14.3,Tablet,,2024-11-14,Evening,Off,6,12.5,2.7,,Premium,
+1154,2024-07-11,Chennai Super Kings,12,9,1887.95,57.55,75,45.72,Mobile,Delhi,2025-01-09,Evening,On,4,14.14,,UPI,,2025-01-09 22:55:00
+1155,2025-01-10,Chennai Super Kings,31,10,1002.63,0,32.26,8.89,Mobile,Maharashtra,2025-05-21,Afternoon,On,1,6.31,2.3,UPI,Free,2025-05-21 11:35:00
+1156,2024-01-16,Chennai Super Kings,26,16,705.61,30.75,61.54,11.65,Desktop,Tamil Nadu,2024-04-12,Afternoon,Off,3,9.17,2.6,,Free,2024-04-12 5:07:00
+1157,2024-06-10,Delhi Capitals,30,26,2018.25,49.88,86.67,16.74,Desktop,Tamil Nadu,2024-06-20,Evening,,4,11.54,5,Credit Card,,2024-06-20 21:49:00
+1158,2024-06-16,Sunrisers Hyderabad,37,13,1818.12,57.25,35.14,15.54,Mobile,,,Evening,On,2,18.37,1.8,Credit Card,Premium,2024-07-03 4:53:00
+1159,2024-02-03,Royal Challengers Bangalore,24,17,330.16,35.61,70.83,14.38,Desktop,West Bengal,2024-02-17,Evening,Off,2,18.97,1.6,,Premium,2024-02-17 16:07:00
+1160,2024-11-10,Delhi Capitals,10,7,440.17,54.32,70,49.78,Desktop,Delhi,2025-03-12,Afternoon,On,,13.74,1.2,Credit Card,Premium,2025-03-12 17:20:00
+1161,2024-10-10,Kolkata Knight Riders,14,1,2779.65,57.53,7.14,40.21,Tablet,Maharashtra,2025-03-19,Evening,On,7,14.76,,UPI,Premium,2025-03-19 21:07:00
+1162,2024-01-25,Mumbai Indians,46,22,2030.45,57.6,47.83,12.69,Mobile,Karnataka,2024-07-10,Evening,On,9,7.69,3.6,Credit Card,,2024-07-10 16:09:00
+1163,2024-10-09,Kolkata Knight Riders,9,3,457.44,50.29,33.33,50.75,Mobile,Delhi,2024-12-21,Afternoon,On,8,14.05,,UPI,Free,2024-12-21 6:33:00
+1164,2024-01-30,Chennai Super Kings,17,12,4236.72,38.14,70.59,23.54,Mobile,Tamil Nadu,2024-08-04,,,0,13.15,,UPI,,2024-08-04 15:26:00
+1165,2024-01-05,Mumbai Indians,41,27,4092.58,40.1,65.85,10.52,Tablet,West Bengal,2024-04-02,Evening,On,9,8.84,3.9,UPI,Free,2024-04-02 11:11:00
+1166,2024-10-21,Royal Challengers Bangalore,30,1,4096.69,48.15,3.33,16.85,Desktop,Tamil Nadu,2025-03-09,Afternoon,On,4,5.18,4.7,UPI,,
+1167,2024-02-26,Kolkata Knight Riders,29,9,2131.99,40.63,31.03,14.25,Tablet,West Bengal,2024-05-06,Evening,Off,0,11.71,3.1,,,2024-05-06 4:31:00
+1168,2025-01-29,Mumbai Indians,13,6,2373.28,54.79,46.15,40.83,Desktop,Karnataka,2025-02-24,Evening,Off,8,6.87,2.4,Credit Card,Premium,2025-02-24 15:19:00
+1169,2024-09-29,Kolkata Knight Riders,1,1,4444.17,26.58,100,0,Mobile,Maharashtra,2025-01-20,Evening,On,9,9.76,3.4,,Free,2025-01-20 11:57:00
+1170,2024-12-24,Mumbai Indians,32,11,3574.2,29.86,34.38,10.13,Tablet,Tamil Nadu,2025-01-11,Evening,Off,2,7.7,1,,Free,
+1171,2024-06-07,Mumbai Indians,47,26,1556.05,48.45,55.32,10.42,Desktop,Delhi,2024-10-29,Evening,Off,0,18.96,,,Free,2024-10-29 2:52:00
+1172,2025-01-04,Delhi Capitals,7,4,2507.95,53.84,57.14,70.43,Mobile,Delhi,2025-01-16,,On,3,8.79,3.5,Credit Card,Free,2025-01-16 15:40:00
+1173,2024-04-12,Chennai Super Kings,35,21,3480.02,38.18,60,11.57,Mobile,,2024-05-14,Evening,Off,1,13.34,,,Premium,2024-05-14 7:16:00
+1174,2024-01-29,Sunrisers Hyderabad,35,20,2065.23,22.5,57.14,6.82,Desktop,Maharashtra,2024-05-28,Evening,On,10,17.82,1.2,,,2024-05-28 22:47:00
+1175,2024-01-01,Mumbai Indians,48,12,362.69,21.75,25,4.51,Mobile,Maharashtra,2024-02-17,,Off,4,11.57,,,Premium,2024-02-17 4:01:00
+1176,2024-10-10,Mumbai Indians,3,2,2829.17,32.89,66.67,89.3,Mobile,Telangana,2024-12-01,Afternoon,Off,4,13.54,3.2,,,2024-12-01 6:17:00
+1177,2024-12-28,Kolkata Knight Riders,18,6,2593.39,26.79,33.33,15.46,Tablet,Delhi,2025-01-10,Afternoon,On,4,8.4,3.1,,Free,2025-01-10 14:12:00
+1178,2024-04-27,Chennai Super Kings,44,32,1315.62,28.1,72.73,6.54,Mobile,Telangana,2024-08-21,Afternoon,On,7,5.16,3.7,,,2024-08-21 1:15:00
+1179,2024-03-14,Royal Challengers Bangalore,2,2,3154.41,0,100,177.01,Mobile,Telangana,2024-06-27,Afternoon,Off,6,11.17,4,UPI,Premium,2024-06-27 12:27:00
+1180,2024-11-18,Sunrisers Hyderabad,38,28,4634.99,23.5,73.68,7.21,Mobile,West Bengal,2025-05-05,Evening,Off,0,0,1.4,,,
+1181,2024-08-07,Chennai Super Kings,5,4,669.32,56.12,80,94.65,Tablet,Karnataka,2024-09-01,Evening,On,8,13.66,1.3,UPI,Premium,2024-09-01 6:55:00
+1182,2024-08-22,Mumbai Indians,44,20,2429.86,0,45.45,8,Mobile,West Bengal,2024-11-15,Evening,On,3,6.83,,Credit Card,Premium,2024-11-15 19:21:00
+1183,2024-10-07,Delhi Capitals,40,26,4254.59,29.04,65,8.12,Desktop,West Bengal,2024-12-02,Afternoon,On,3,18.36,4.5,UPI,Premium,2024-12-02 13:29:00
+1184,2024-07-31,Kolkata Knight Riders,44,5,232.45,0,11.36,4.94,Desktop,West Bengal,2024-11-21,Evening,On,2,18.27,5,,Free,2024-11-21 1:02:00
+1185,2024-08-23,Sunrisers Hyderabad,5,2,2962.38,53.64,40,94.34,Desktop,Maharashtra,2025-01-10,Afternoon,Off,,9.11,1.1,Credit Card,Premium,2025-01-10 6:19:00
+1186,2025-01-02,Chennai Super Kings,40,12,4144.02,33.38,30,9.15,Desktop,Telangana,2025-06-09,Evening,,7,18.71,4.1,UPI,Free,2025-06-09 3:08:00
+1187,2025-01-06,Royal Challengers Bangalore,8,0,0,28.43,0,35.84,Tablet,Maharashtra,2025-01-18,Evening,,7,15.78,2.9,Credit Card,Premium,2025-01-18 14:23:00
+1188,2024-11-17,Sunrisers Hyderabad,26,24,1807.93,58.02,92.31,22.16,Mobile,Maharashtra,2025-04-21,,Off,3,9.82,3.3,,Premium,2025-04-21 10:54:00
+1189,2024-12-21,Kolkata Knight Riders,15,14,580.38,28.82,93.33,18.38,Mobile,Maharashtra,2025-05-19,,,7,5.65,,UPI,Free,2025-05-19 16:47:00
+1190,2024-07-14,Mumbai Indians,24,5,3719.58,54.5,20.83,23.29,,Karnataka,2024-07-31,Evening,On,9,17.04,3.9,Credit Card,Premium,2024-07-31 10:11:00
+1191,2024-03-04,Mumbai Indians,1,1,3654.18,29.46,100,165.57,Desktop,Tamil Nadu,2024-08-22,Afternoon,Off,9,5.32,3.6,,,2024-08-22 9:48:00
+1192,2024-12-25,Kolkata Knight Riders,10,8,3582.97,21.21,80,22.54,,,2025-06-01,Afternoon,On,9,11.39,2.4,Credit Card,Premium,2025-06-01 14:49:00
+1193,2024-11-30,Mumbai Indians,18,13,3184.08,52.7,72.22,29.41,Desktop,Karnataka,2025-05-31,Evening,On,3,10.17,,,Free,2025-05-31 18:18:00
+1194,2024-06-21,Royal Challengers Bangalore,6,4,2975.29,49.7,66.67,75.25,Desktop,Tamil Nadu,2024-07-30,,On,3,10.75,,,,2024-07-30 21:53:00
+1195,2024-06-12,Delhi Capitals,23,17,840.76,51.2,73.91,21.68,Tablet,Maharashtra,2024-09-05,Evening,Off,6,14.69,3.4,,Free,2024-09-05 5:16:00
+1196,2024-08-01,Kolkata Knight Riders,23,4,2325.14,36.52,17.39,16.19,Mobile,West Bengal,2024-09-19,,On,0,13.24,1.2,,Premium,2024-09-19 21:36:00
+1197,2024-02-08,Delhi Capitals,29,12,3529.18,42.94,41.38,15.49,Desktop,Tamil Nadu,2024-03-13,Evening,Off,2,12.35,4,,,2024-03-13 7:04:00
+1198,2024-10-06,Royal Challengers Bangalore,45,18,1526.83,39.48,40,8.91,Desktop,Maharashtra,2025-03-08,Evening,Off,6,6.22,4.3,,,2025-03-08 15:52:00
+1199,2024-04-01,Royal Challengers Bangalore,0,0,0,0,0,0,Mobile,West Bengal,,Afternoon,On,1,0,,,,
+1200,2024-06-25,Sunrisers Hyderabad,28,28,3535.66,56.49,100,20.7,Desktop,Karnataka,2024-07-07,Afternoon,On,6,11.06,4.9,,Free,2024-07-07 17:58:00
+1201,2025-01-07,Delhi Capitals,47,30,145.5,57.65,63.83,12.04,Desktop,Telangana,2025-01-21,Evening,Off,,0,3.2,UPI,Free,
+1202,2024-04-16,Royal Challengers Bangalore,32,26,189.97,44.7,81.25,13.6,Desktop,Maharashtra,2024-07-10,Afternoon,On,1,10.99,,Credit Card,Free,2024-07-10 4:04:00
+1203,2025-01-08,Delhi Capitals,41,25,4109.48,57.54,60.98,14.68,Desktop,West Bengal,2025-03-08,Afternoon,On,6,0,2.6,,Premium,2025-03-08 22:09:00
+1204,2024-06-25,Kolkata Knight Riders,20,15,1530.96,43.15,75,21.28,Desktop,Maharashtra,2024-10-27,Evening,On,2,7.84,,UPI,Free,2024-10-27 23:41:00
+1205,2024-07-16,Mumbai Indians,45,19,1978.1,37.69,42.22,8.62,Mobile,Tamil Nadu,2024-08-20,Afternoon,On,5,15.96,2.7,Credit Card,Free,2024-08-20 17:27:00
+1206,2024-07-16,Sunrisers Hyderabad,23,15,248.93,43.82,65.22,0,,Karnataka,2024-12-17,Afternoon,,4,8.41,4,Credit Card,,2024-12-17 5:09:00
+1207,2025-01-28,Delhi Capitals,24,22,2422.88,52.87,91.67,22.12,Mobile,Karnataka,2025-06-25,Evening,On,6,11.16,4.2,,,2025-06-25 21:52:00
+1208,2024-10-14,Mumbai Indians,35,19,226.2,45.44,54.29,12.69,Mobile,Maharashtra,2025-03-19,Afternoon,,6,5.96,,Credit Card,Free,2025-03-19 23:37:00
+1209,2025-01-24,Chennai Super Kings,1,0,0,59.7,0,301.07,Desktop,Karnataka,2025-05-07,Evening,Off,0,7.87,4.3,UPI,,2025-05-07 20:05:00
+1210,2024-02-21,Chennai Super Kings,43,2,1286.56,0,4.65,10.67,Mobile,West Bengal,2024-04-10,Afternoon,Off,5,8.74,,UPI,Premium,2024-04-10 5:17:00
+1211,2024-09-05,Royal Challengers Bangalore,49,41,3144.29,39.93,83.67,8.61,Desktop,Tamil Nadu,2024-10-15,Afternoon,Off,4,5.22,3.5,,,
+1212,2024-11-01,Delhi Capitals,38,14,887.96,57.26,36.84,14.91,Mobile,Delhi,2025-02-19,Afternoon,Off,3,8.63,,Credit Card,Premium,2025-02-19 5:08:00
+1213,2024-05-17,Kolkata Knight Riders,37,11,3683.05,34.33,29.73,10,Tablet,Karnataka,2024-11-04,Afternoon,On,1,19.05,1.7,UPI,Premium,2024-11-04 5:09:00
+1214,2024-01-10,Chennai Super Kings,33,25,3207.34,45.38,75.76,14.29,Desktop,Delhi,2024-04-15,Afternoon,On,6,6.94,2.7,Credit Card,Free,2024-04-15 21:30:00
+1215,2024-08-21,Chennai Super Kings,33,23,3439.95,43.25,69.7,13.73,Desktop,Maharashtra,2025-03-03,Evening,On,2,18.2,,UPI,Premium,2025-03-03 7:32:00
+1216,2024-08-25,Royal Challengers Bangalore,30,30,311.2,39.02,100,12.69,Mobile,Tamil Nadu,2025-01-05,Afternoon,Off,10,5.01,,UPI,Free,2025-01-05 0:19:00
+1217,2024-01-10,Delhi Capitals,24,20,2064.96,32.57,83.33,13.85,Desktop,West Bengal,2024-06-04,Afternoon,Off,8,9.48,,,Premium,2024-06-04 2:13:00
+1218,2024-04-20,Mumbai Indians,37,35,4528.2,58.96,94.59,16.71,Mobile,West Bengal,2024-09-26,,Off,3,9.01,,,Premium,2024-09-26 3:05:00
+1219,2024-11-06,Royal Challengers Bangalore,44,20,4953.89,21.52,45.45,5.88,Tablet,West Bengal,2025-01-02,Evening,Off,0,18.89,3.2,UPI,Free,2025-01-02 18:56:00
+1220,2024-01-24,Chennai Super Kings,32,25,1163.76,0,78.12,11.94,Desktop,Maharashtra,2024-04-15,Evening,Off,7,15.46,,UPI,,2024-04-15 12:04:00
+1221,2024-10-28,Kolkata Knight Riders,27,3,4812.97,38.71,11.11,15.54,Mobile,Delhi,2025-03-04,Evening,Off,3,5.74,,UPI,Premium,2025-03-04 5:10:00
+1222,2024-11-12,Kolkata Knight Riders,8,6,1037.33,34.11,75,39.05,Mobile,Maharashtra,2025-01-23,Evening,On,9,7.98,4.9,,,2025-01-23 6:24:00
+1223,2024-05-28,Chennai Super Kings,33,10,3482.08,49.49,30.3,15.58,Desktop,West Bengal,2024-08-14,Afternoon,Off,3,9.04,,,Premium,2024-08-14 12:46:00
+1224,2024-05-17,Chennai Super Kings,48,8,2729.51,20.94,16.67,4.83,Mobile,Delhi,2024-10-09,Evening,Off,5,6.18,2.3,Credit Card,Premium,2024-10-09 14:27:00
+1225,2024-03-25,Mumbai Indians,3,0,0,46,0,123.47,Desktop,Maharashtra,2024-10-07,Evening,Off,1,15.21,,,Free,2024-10-07 0:46:00
+1226,2024-11-08,Delhi Capitals,44,7,4613.31,33.82,15.91,8.54,Mobile,Maharashtra,2025-01-06,Evening,Off,4,14.52,3.5,,Free,2025-01-06 1:27:00
+1227,2025-01-04,Mumbai Indians,28,15,4590.5,50.39,53.57,18.96,Tablet,West Bengal,2025-05-13,Evening,On,,19.88,,,Free,2025-05-13 21:14:00
+1228,2025-01-10,Mumbai Indians,5,4,4038.02,30.28,80,57.2,Tablet,,2025-04-23,Afternoon,On,2,11.75,,UPI,,2025-04-23 16:37:00
+1229,2025-01-27,Sunrisers Hyderabad,50,19,4598.29,48.61,38,10.43,Mobile,Karnataka,2025-06-11,Afternoon,On,8,11.2,3.4,UPI,,2025-06-11 17:32:00
+1230,2024-03-20,Kolkata Knight Riders,44,11,4555.93,25.99,25,6.79,Mobile,Maharashtra,2024-06-09,,On,0,0,1.8,,Premium,2024-06-09 12:20:00
+1231,2024-10-27,Kolkata Knight Riders,34,5,4999.04,31.31,14.71,10.37,Tablet,Telangana,2024-11-08,,Off,9,12.25,4.6,,,2024-11-08 1:22:00
+1232,2024-12-13,Chennai Super Kings,26,10,3324.73,32.52,38.46,13.28,Desktop,Karnataka,2025-03-27,Afternoon,On,2,11.4,4.8,,Premium,2025-03-27 18:42:00
+1233,2024-09-28,Delhi Capitals,8,2,4678.5,42.46,25,52.38,Desktop,Karnataka,2024-11-03,Afternoon,Off,6,10.36,1.8,,Premium,
+1234,2024-12-29,Mumbai Indians,37,26,2090.51,41.29,70.27,11.42,Tablet,Telangana,2025-03-26,Evening,On,1,6.77,2.2,Credit Card,Premium,2025-03-26 13:16:00
+1235,2024-08-13,Royal Challengers Bangalore,32,29,347.25,34.93,90.62,10.69,Desktop,,2024-12-20,Afternoon,Off,1,13.03,4.2,,Free,2024-12-20 21:40:00
+1236,2024-02-14,Chennai Super Kings,24,18,2357.83,58.82,75,24.47,Tablet,Karnataka,2024-08-02,Evening,,3,12.58,1.5,,,2024-08-02 1:44:00
+1237,2024-10-26,Sunrisers Hyderabad,27,16,4277.46,22.44,59.26,9.54,Mobile,Karnataka,2024-11-08,Afternoon,Off,10,5.32,1.1,UPI,Premium,2024-11-08 14:15:00
+1238,2024-07-31,Kolkata Knight Riders,0,0,0,0,0,0,Desktop,Maharashtra,,Afternoon,Off,5,0,4.5,,,
+1239,2024-01-03,Kolkata Knight Riders,18,18,843.82,57,100,30.44,Desktop,Telangana,,Afternoon,Off,2,19.26,,UPI,Free,2024-01-31 20:05:00
+1240,2025-01-06,Chennai Super Kings,35,20,605.57,44.21,57.14,12.45,Mobile,West Bengal,2025-04-11,Afternoon,Off,8,8.24,,Credit Card,,2025-04-11 21:37:00
+1241,2024-05-24,Sunrisers Hyderabad,44,18,2200.56,21.41,40.91,5.25,Tablet,Maharashtra,2024-08-25,Afternoon,Off,1,14.04,4.7,UPI,Premium,2024-08-25 11:41:00
+1242,2024-07-13,Sunrisers Hyderabad,9,6,4338.31,20.23,66.67,24.57,Desktop,Telangana,2024-12-13,Evening,On,,0,4.5,,Premium,2024-12-13 4:56:00
+1243,2024-09-10,Kolkata Knight Riders,48,43,1510.45,52.24,89.58,10.97,Desktop,Delhi,2024-10-08,Evening,On,8,12.8,,UPI,Premium,2024-10-08 1:24:00
+1244,2024-03-18,Chennai Super Kings,34,10,4662.99,51.12,29.41,15.94,Desktop,Maharashtra,2024-06-19,Evening,On,0,10.18,,Credit Card,,2024-06-19 6:22:00
+1245,2024-02-05,Royal Challengers Bangalore,42,41,2841.75,48.96,97.62,12.05,Desktop,Karnataka,2024-08-11,Afternoon,Off,10,5.3,3.6,UPI,Free,2024-08-11 4:27:00
+1246,2024-01-02,Mumbai Indians,46,44,1304.75,37.02,95.65,8.15,Mobile,West Bengal,2024-03-11,Evening,Off,2,0,1.6,UPI,,2024-03-11 15:08:00
+1247,2024-12-21,Mumbai Indians,5,2,46.92,44.59,40,74.39,,Karnataka,2025-05-13,Afternoon,On,4,13.07,4.4,,Free,
+1248,2024-01-27,Kolkata Knight Riders,33,10,4602.03,21.99,0,7.82,Desktop,Delhi,2024-02-18,Afternoon,Off,8,0,1.4,,,2024-02-18 0:59:00
+1249,2024-07-04,Delhi Capitals,20,5,3183.94,0,25,21.98,Tablet,Karnataka,2024-09-02,Evening,On,5,7.87,2.2,,Premium,2024-09-02 5:29:00
+1250,2024-12-19,Kolkata Knight Riders,38,26,3073.93,28.87,68.42,8.19,Mobile,Delhi,2025-01-10,Evening,On,0,11.98,3.2,UPI,,
+1251,2024-08-13,Mumbai Indians,40,4,3864.85,57,10,14.85,Mobile,Maharashtra,2025-01-11,Evening,On,5,10.37,4.5,UPI,Premium,2025-01-11 8:40:00
+1252,2024-09-16,Chennai Super Kings,2,1,317.15,28.06,50,94.59,Tablet,West Bengal,2025-03-01,Evening,Off,8,6.04,2,,Premium,2025-03-01 5:59:00
+1253,2024-04-09,Delhi Capitals,10,6,2761.79,20.97,60,21.57,Mobile,Telangana,2024-06-12,Evening,On,8,18.87,,Credit Card,,2024-06-12 0:48:00
+1254,2024-11-18,Sunrisers Hyderabad,41,9,4414.07,26.07,21.95,7.26,Tablet,Maharashtra,2025-05-08,Afternoon,Off,4,16.03,5,UPI,,2025-05-08 23:33:00
+1255,2024-01-13,Kolkata Knight Riders,42,21,2960.95,50.88,50,0,Mobile,Telangana,2024-07-28,Evening,,4,6.46,,Credit Card,Free,2024-07-28 22:10:00
+1256,2024-10-30,Mumbai Indians,25,23,356.24,36.01,92,13.99,Desktop,Tamil Nadu,2025-03-01,Afternoon,Off,1,11.28,,UPI,Free,
+1257,2024-02-29,Sunrisers Hyderabad,29,3,1480.27,36.8,10.34,12.76,Tablet,Telangana,2024-06-09,Afternoon,Off,8,13.24,4.4,,Premium,2024-06-09 6:21:00
+1258,2024-12-12,Royal Challengers Bangalore,50,39,4578.23,52.51,78,11.19,Desktop,Telangana,2025-06-04,Evening,,9,11.8,,UPI,,2025-06-04 10:23:00
+1259,2024-12-20,Chennai Super Kings,47,4,940.8,43.15,8.51,9.19,Desktop,Tamil Nadu,2025-02-22,Afternoon,On,9,19.07,2.1,UPI,,2025-02-22 17:05:00
+1260,2024-09-16,Kolkata Knight Riders,16,6,3821.7,22.68,37.5,15.59,Mobile,Karnataka,2024-10-02,Afternoon,On,5,6.73,4.7,Credit Card,,2024-10-02 7:17:00
+1261,2024-03-28,Royal Challengers Bangalore,17,11,1114.13,25.06,0,14.54,Desktop,Delhi,2024-04-06,Afternoon,Off,1,11.81,1.7,UPI,,2024-04-06 10:33:00
+1262,2025-01-24,Mumbai Indians,29,6,2358.17,29.61,0,10.66,Tablet,West Bengal,2025-05-27,Afternoon,Off,7,18,3,Credit Card,,2025-05-27 1:11:00
+1263,2024-05-02,Kolkata Knight Riders,36,1,2281.65,44.7,2.78,0,Mobile,Karnataka,2024-09-13,Afternoon,,1,8.44,,UPI,Free,2024-09-13 16:38:00
+1264,2024-04-15,Sunrisers Hyderabad,47,13,947.13,45.35,27.66,9.65,Tablet,Telangana,,Afternoon,On,9,0,,,,2024-09-20 6:50:00
+1265,2024-03-21,Mumbai Indians,36,3,1874.1,44.55,8.33,12.55,Tablet,Maharashtra,2024-08-22,Afternoon,On,10,14.22,3.4,UPI,,2024-08-22 19:07:00
+1266,2024-08-28,Royal Challengers Bangalore,17,6,1654.7,48.32,35.29,27.76,Desktop,Delhi,2024-09-22,Afternoon,On,9,9.05,2,Credit Card,,2024-09-22 15:53:00
+1267,2024-04-04,Sunrisers Hyderabad,35,12,2625.66,38.85,34.29,11.52,Desktop,Maharashtra,2024-04-17,Evening,Off,10,12.86,3.6,,,2024-04-17 12:20:00
+1268,2024-07-22,Kolkata Knight Riders,3,1,3168.81,59.96,33.33,157.82,Desktop,Telangana,2024-09-18,Afternoon,On,,8.68,4.6,Credit Card,Free,2024-09-18 11:00:00
+1269,2024-12-13,Mumbai Indians,32,21,894.47,51.76,65.62,15.96,Tablet,West Bengal,2025-04-24,Evening,Off,0,10.72,2.1,Credit Card,,2025-04-24 2:38:00
+1270,2024-01-01,Mumbai Indians,0,0,0,0,0,0,Desktop,Delhi,,Afternoon,Off,9,0,,,,
+1271,2024-07-21,Mumbai Indians,18,7,4719.44,32.72,38.89,19.7,Tablet,Telangana,2024-12-21,Evening,Off,8,17.65,,Credit Card,Premium,2024-12-21 12:00:00
+1272,2024-06-03,Kolkata Knight Riders,39,15,2289.46,0,38.46,14.96,Tablet,West Bengal,2024-10-11,Evening,On,2,6.66,3.7,,Free,2024-10-11 22:44:00
+1273,2024-02-28,Royal Challengers Bangalore,21,20,3968.13,51.54,95.24,25.23,Mobile,Karnataka,2024-09-14,Afternoon,Off,9,18.16,3.9,Credit Card,Free,2024-09-14 7:07:00
+1274,2024-01-19,Mumbai Indians,28,19,1910.11,41.58,67.86,15,Desktop,Maharashtra,2024-06-04,Afternoon,Off,,7.9,,,,2024-06-04 4:30:00
+1275,2024-05-09,Kolkata Knight Riders,17,6,4250.28,0,35.29,20.22,Desktop,Delhi,2024-07-28,Evening,Off,6,5.69,4.2,UPI,,2024-07-28 7:50:00
+1276,2024-06-23,Sunrisers Hyderabad,46,42,1244.69,48.36,91.3,10.55,Tablet,Tamil Nadu,2024-07-13,Afternoon,Off,3,19.93,2.4,,,2024-07-13 14:20:00
+1277,2024-10-10,Mumbai Indians,7,7,4731.55,30.97,100,44.63,Tablet,Karnataka,2025-04-05,Evening,Off,7,13.1,,Credit Card,Premium,2025-04-05 13:59:00
+1278,2024-06-18,Kolkata Knight Riders,19,5,664.45,50.53,26.32,25.6,Tablet,Karnataka,2024-11-28,Evening,On,4,15.63,1.3,Credit Card,,2024-11-28 10:48:00
+1279,2024-02-04,Sunrisers Hyderabad,23,13,484.56,27.1,56.52,11.49,Mobile,West Bengal,2024-05-11,Afternoon,On,9,11.59,4.8,,Free,2024-05-11 10:29:00
+1280,2024-12-23,Delhi Capitals,23,20,4880.37,21.36,86.96,10.93,Tablet,Karnataka,2025-06-14,Evening,Off,,8.56,,Credit Card,,2025-06-14 4:18:00
+1281,2024-09-24,Chennai Super Kings,26,26,1014.92,29.48,100,11.29,Tablet,West Bengal,2025-03-31,Evening,On,0,10.49,1.2,Credit Card,Premium,2025-03-31 11:18:00
+1282,2025-01-14,Royal Challengers Bangalore,19,1,410.27,41.23,5.26,20.82,Desktop,Tamil Nadu,2025-05-16,Afternoon,On,9,0,,UPI,Free,2025-05-16 18:07:00
+1283,2024-05-23,Sunrisers Hyderabad,43,21,4490.59,0,48.84,6.36,Tablet,Maharashtra,2024-08-16,Evening,Off,6,17.86,3.2,Credit Card,,2024-08-16 22:35:00
+1284,2024-04-26,Chennai Super Kings,18,13,974.73,46.56,72.22,25.02,Mobile,West Bengal,2024-10-25,Afternoon,On,9,6.37,,UPI,Free,2024-10-25 14:27:00
+1285,2024-11-12,Kolkata Knight Riders,21,8,3347.74,34.48,38.1,17.19,Desktop,,2025-01-12,Evening,,4,13.47,4.3,UPI,Free,2025-01-12 16:46:00
+1286,2024-07-24,Mumbai Indians,41,20,2438.15,58.99,48.78,14.63,Mobile,Delhi,2024-10-23,Afternoon,On,9,12,,UPI,Free,2024-10-23 7:53:00
+1287,2024-05-19,Royal Challengers Bangalore,28,15,4457.59,55.23,53.57,20.58,Desktop,Maharashtra,2024-10-21,Afternoon,On,6,8.55,,Credit Card,,2024-10-21 15:19:00
+1288,2024-01-10,Sunrisers Hyderabad,39,13,1981.08,55.04,33.33,14.26,Mobile,Karnataka,2024-06-23,Afternoon,On,6,17.26,1.1,,Free,2024-06-23 9:37:00
+1289,2024-05-17,Chennai Super Kings,7,5,1947.42,27.25,0,36.5,Desktop,Delhi,2024-06-04,Afternoon,Off,8,15.39,1.4,,Free,2024-06-04 1:41:00
+1290,2024-11-14,Chennai Super Kings,37,17,4545.12,0,45.95,13.39,Tablet,Tamil Nadu,2025-04-29,Evening,On,,18.74,2.5,Credit Card,Free,2025-04-29 9:22:00
+1291,2024-08-07,Royal Challengers Bangalore,10,5,2552.02,24.54,0,24.63,Tablet,Telangana,2025-02-07,Afternoon,On,8,9.46,,,Free,2025-02-07 10:20:00
+1292,2024-07-11,Kolkata Knight Riders,44,36,2693.93,53.33,81.82,12.45,Mobile,Delhi,2024-08-30,Afternoon,On,0,5.52,2.8,,,2024-08-30 7:12:00
+1293,2024-04-12,Sunrisers Hyderabad,19,12,4399.65,45.89,63.16,25.14,Tablet,Telangana,2024-06-17,Evening,Off,7,14.33,,UPI,Premium,2024-06-17 4:08:00
+1294,2024-01-01,Mumbai Indians,17,15,3222.39,34.58,88.24,21,Desktop,Tamil Nadu,2024-03-13,Afternoon,Off,5,0,,,,2024-03-13 12:45:00
+1295,2024-09-16,Mumbai Indians,48,40,2197.44,53.17,83.33,11.3,Mobile,Telangana,2024-10-19,Afternoon,On,1,19.54,4.5,,Premium,2024-10-19 11:45:00
+1296,2024-06-25,Delhi Capitals,50,43,2718.4,46.44,86,9.64,Tablet,,2024-11-21,Evening,On,3,15.32,1.3,,Free,2024-11-21 21:44:00
+1297,2024-09-23,Chennai Super Kings,21,20,3246.82,26.43,95.24,13.49,Tablet,Tamil Nadu,2025-03-04,Evening,On,6,7.93,4.6,,,2025-03-04 17:11:00
+1298,2024-12-13,Royal Challengers Bangalore,36,33,4519.15,33.41,91.67,10.25,Desktop,Tamil Nadu,2024-12-26,Afternoon,,2,18.98,3,,,2024-12-26 5:54:00
+1299,2024-11-27,Sunrisers Hyderabad,40,16,3479.87,47.85,40,12.52,Tablet,Delhi,2025-05-21,Evening,,3,6.4,4.1,,Free,2025-05-21 2:23:00
+1300,2024-12-23,Kolkata Knight Riders,29,10,1488.72,56.31,34.48,19.27,Desktop,Karnataka,2025-06-15,Evening,,7,9.68,,,,2025-06-15 23:17:00
+1301,2024-01-15,Mumbai Indians,30,27,5000,55.5,90,65.2,Mobile,Maharashtra,2025-08-01,Evening,On,5,15.5,4,UPI,Premium,2025-08-01 18:30:00
+1302,2024-02-20,Chennai Super Kings,40,36,6000,60,90,70.5,Desktop,Maharashtra,2025-08-02,Afternoon,Off,3,20,3.5,Credit Card,Free,2025-08-02 14:00:00
+1303,2024-03-10,Delhi Capitals,15,3,1000,45,20,25,Tablet,Delhi,2025-08-03,Evening,On,2,10,2.8,,Free,2025-08-03 20:15:00
+1304,2024-04-05,Kolkata Knight Riders,35,28,4500,50,80,60,Mobile,West Bengal,2025-08-04,Afternoon,Off,4,18,4.2,UPI,Premium,2025-08-04 12:45:00
+1305,2024-05-12,Royal Challengers Bangalore,28,5,1200,48,17.86,30,Desktop,Delhi,2025-08-04,Evening,On,1,12,3,,Free,2025-08-04 19:30:00
+1306,2024-06-18,Sunrisers Hyderabad,50,45,7000,62,90,75,Mobile,West Bengal,2025-08-04,Afternoon,On,6,22,4.5,Credit Card,Premium,2025-08-04 16:00:00
+1307,2024-01-10,Mumbai Indians,35,30,5500,58,85.71,68.5,Mobile,Maharashtra,2025-08-04,Evening,On,4,16,4.1,UPI,Premium,2025-08-04 17:00:00
+1308,2024-02-15,Chennai Super Kings,45,40,6500,61,88.89,72,Desktop,Maharashtra,2025-08-04,Afternoon,Off,5,21,3.8,Credit Card,Free,2025-08-04 13:30:00
+1309,2024-03-20,Delhi Capitals,20,4,1500,47,20,28,Tablet,Delhi,2025-08-04,Evening,On,3,11,2.9,,Free,2025-08-04 19:45:00
+1310,2024-04-25,Kolkata Knight Riders,40,36,4800,52,90,65,Mobile,West Bengal,2025-08-04,Afternoon,Off,6,19,4.3,UPI,Premium,2025-08-04 11:00:00
+1311,2024-05-30,Royal Challengers Bangalore,30,6,1800,49,20,32,Desktop,Delhi,2025-08-04,Evening,On,2,13,3.2,,Free,2025-08-04 20:15:00
+1312,2024-06-05,Sunrisers Hyderabad,50,45,7200,63,90,78,Mobile,West Bengal,2025-08-04,Afternoon,On,7,23,4.7,Credit Card,Premium,2025-08-04 15:30:00
